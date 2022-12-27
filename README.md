@@ -1,2 +1,2 @@
 # project_search
-Laravel based  project
+Web application that allows users to search for reported lost devices
