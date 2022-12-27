@@ -1,0 +1,199 @@
+/*
+.bg{
+  background: #fff;
+  background-image: url(../images/search.jpg);
+  height:100%;
+  background-position:center;
+  background-repeat:no-repeat;
+  /*background-size: cover;
+}
+
+.search-box{
+  top:50%;
+  left:50%;
+  position:absolute;
+  transform:translate(-50%,-50%)
+}
+
+
+.btn.btn-search{
+  border-radius: 8px;
+  height: 50px;
+  background: #03a3b2;
+  color:#fff;
+}
+
+.overlay{
+  position: absolute;
+  top:0;
+  left:0;
+  background:#000;
+  height:100%;
+  width:100%;
+  opacity:0.2;
+}*/
+
+
+
+/*Start of Amdin Dashboard css*/
+:root {
+  --main-bg-color: #009d63;
+  --main-text-color: #009d63;
+  --second-text-color: #bbbec5;
+  --second-bg-color: #c1efde;
+}
+
+.primary-text {
+  color: var(--main-text-color);
+}
+
+.second-text {
+  color: var(--second-text-color);
+}
+
+.primary-bg {
+  background-color: var(--main-bg-color);
+}
+
+.secondary-bg {
+  background-color: var(--second-bg-color);
+}
+
+.rounded-full {
+  border-radius: 100%;
+}
+
+#sidebar-wrapper {
+  min-height: 100vh;
+  margin-left: -15rem;
+  -webkit-transition: margin 0.25s ease-out;
+  -moz-transition: margin 0.25s ease-out;
+  -o-transition: margin 0.25s ease-out;
+  transition: margin 0.25s ease-out;
+}
+
+#sidebar-wrapper .sidebar-heading {
+  padding: 0.875rem 1.25rem;
+  font-size: 1.2rem;
+}
+
+#sidebar-wrapper .list-group {
+  width: 15rem;
+}
+
+#page-content-wrapper {
+  min-width: 100vw;
+}
+
+#wrapper.toggled #sidebar-wrapper {
+  margin-left: 0;
+}
+
+#menu-toggle {
+  cursor: pointer;
+}
+
+.list-group-item {
+  border: none;
+  padding: 20px 30px;
+}
+
+.list-group-item.active {
+  background-color: transparent;
+  color: var(--main-text-color);
+  font-weight: bold;
+  border: none;
+}
+
+@media (min-width: 768px) {
+  #sidebar-wrapper {
+    margin-left: 0;
+  }
+
+  #page-content-wrapper {
+    min-width: 0;
+    width: 100%;
+  }
+
+  #wrapper.toggled #sidebar-wrapper {
+    margin-left: -15rem;
+  }
+}
+/*End of Admin Dashboard css*/
+
+/*Start of loader used in Mpesa*/
+.loading-bar{
+    display:none;
+    position:fixed;
+    z-index:1000;/**always on top */
+    left:0;
+    top:0;
+    width:100%;
+    height:100%;/**full screen */
+    background-image:url('../images/loader.gif');
+    background-position:50% 50% ;/**Centre */
+    background-color:rgba(255,255,255,0.8);/**transaparency */
+    background-repeat:no-repeat;
+}
+
+body.loading{/**When body has loading class */
+overflow:hidden;/**hide scrolling bar */
+}
+body.loading .loading-bar{
+display:block;/**when body has loading class, display loader */
+
+}
+/*End of loader used in Mpesa*/
+
+
+/*Start of Search input field on Home Page*/
+.height {
+  height: 50vh
+}
+
+.search {
+  position: relative;
+  box-shadow: 0 0 40px rgba(51, 51, 51, .1)
+}
+
+.search input {
+  height: 60px;
+  text-indent: 25px;
+  border: 2px solid #d6d4d4
+}
+
+.search input:focus {
+  box-shadow: none;
+  border: 2px solid #424242;
+}
+
+.search .fa-search {
+  position: absolute;
+  top: 20px;
+  left: 16px
+}
+
+
+
+.search button {
+    position: absolute;
+     top: 5px;
+    right: 5px;
+    height: 50px;
+}
+/*End of Search input field on Home Page*/
+
+
+/*Start of Footer*/
+body{
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
+
+footer{
+    margin-top: auto;
+}
+/*End of footer*/
+
+

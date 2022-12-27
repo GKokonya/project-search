@@ -1,0 +1,1254 @@
+Array
+(
+    [USER] => itncoke1
+    [HOME] => /home/itncoke1
+    [SCRIPT_NAME] => /config/ExpressCheckout/lnmo_result_url.php
+    [REQUEST_URI] => /config/ExpressCheckout/lnmo_result_url.php
+    [QUERY_STRING] => 
+    [REQUEST_METHOD] => POST
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [REMOTE_PORT] => 52636
+    [SCRIPT_FILENAME] => /home/itncoke1/projectsearch.itn3.co.ke/config/ExpressCheckout/lnmo_result_url.php
+    [SERVER_ADMIN] => webmaster@projectsearch.itn3.co.ke
+    [CONTEXT_DOCUMENT_ROOT] => /home/itncoke1/projectsearch.itn3.co.ke
+    [CONTEXT_PREFIX] => 
+    [REQUEST_SCHEME] => https
+    [DOCUMENT_ROOT] => /home/itncoke1/projectsearch.itn3.co.ke
+    [REMOTE_ADDR] => 196.201.214.208
+    [SERVER_PORT] => 443
+    [SERVER_ADDR] => 173.237.185.110
+    [SERVER_NAME] => projectsearch.itn3.co.ke
+    [SERVER_SOFTWARE] => Apache
+    [SERVER_SIGNATURE] => 
+    [PATH] => /usr/local/jdk/bin:/usr/kerberos/sbin:/usr/kerberos/bin:/usr/local/sbin:/usr/local/bin:/sbin:/bin:/usr/sbin:/usr/bin:/usr/X11R6/bin:/usr/local/bin:/usr/X11R6/bin:/root/bin:/opt/bin
+    [HTTP_X_RUXIT_FORWARDED_FOR] => 10.195.5.97
+    [HTTP_X_DYNATRACE_REQUESTSTATE] => agentId=0x41698b913ef81d98&pathDepth=1
+    [HTTP_COOKIE] => dtCookie=v_4_srv_1_sn_F3FFCEA2A9AC15FE22403BBAFA4AB7F1_perc_100000_ol_0_mul_1_app-3Aea7c4b59f27d43eb_1_rcs-3Acss_1
+    [HTTP_X_DYNATRACE_ORIGIN_URL] => https://internalsandbox.safaricom.co.ke/mpesa/stkpushresults/v1/submit
+    [HTTP_X_DYNATRACE_APPLICATION] => 1%3B1%3Bea7c4b59f27d43eb
+    [HTTP_USER_AGENT] => BW-HTTPClient/5.4
+    [HTTP_TRACESTATE] => 265f7333-c11c5b27@dt=fw4;1;3ef81d98;11b05d7;3;1;0;1c6;7626;2h01;3h3ef81d98;4h011b05d7;5h01;7h973f3efa980470ee,181ea755-a07e0240@dt=fw4;1;542579be;363;0;0;0;73a;0b57;2h01;3h542579be;4h0363;5h01;7h1944b789605c8e56
+    [HTTP_TRACEPARENT] => 00-c81812d7085c83d0e28ac84753b6f1b5-973f3efa980470ee-00
+    [HTTP_X_DYNATRACE] => FW4;-1055106265;1;1056447896;18548183;-2147483645;643789619;454;3d65;2h01;3h3ef81d98;4h011b05d7;5h01;6hc81812d7085c83d0e28ac84753b6f1b5;7h973f3efa980470ee
+    [HTTP_ACCEPT_CHARSET] => iso-8859-1,*,utf-8
+    [HTTP_ACCEPT] => image/gif, image/x-xbitmap, image/jpeg, image/pjpeg, image/png, */*
+    [HTTP_ACCEPT_ENCODING] => gzip
+    [CONTENT_TYPE] => application/json;charset=UTF-8
+    [CONTENT_LENGTH] => 412
+    [HTTP_X_FORWARDED_PROTO] => https
+    [HTTP_X_FORWARDED_PORT] => 443
+    [HTTP_X_FORWARDED_FOR] => 10.195.5.97
+    [HTTP_HOST] => projectsearch.itn3.co.ke
+    [proxy-nokeepalive] => 1
+    [SSL_TLS_SNI] => projectsearch.itn3.co.ke
+    [HTTPS] => on
+    [UNIQUE_ID] => YbCoGpdd2fvJAYyJpMyHyAAAAUc
+    [FCGI_ROLE] => RESPONDER
+    [PHP_SELF] => /config/ExpressCheckout/lnmo_result_url.php
+    [REQUEST_TIME_FLOAT] => 1638967322.4967
+    [REQUEST_TIME] => 1638967322
+    [argv] => Array
+        (
+        )
+
+    [argc] => 0
+)
+
+Array
+(
+    [USER] => itncoke1
+    [HOME] => /home/itncoke1
+    [SCRIPT_NAME] => /config/ExpressCheckout/lnmo_result_url.php
+    [REQUEST_URI] => /config/ExpressCheckout/lnmo_result_url.php
+    [QUERY_STRING] => 
+    [REQUEST_METHOD] => POST
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [REMOTE_PORT] => 50726
+    [SCRIPT_FILENAME] => /home/itncoke1/projectsearch.itn3.co.ke/config/ExpressCheckout/lnmo_result_url.php
+    [SERVER_ADMIN] => webmaster@projectsearch.itn3.co.ke
+    [CONTEXT_DOCUMENT_ROOT] => /home/itncoke1/projectsearch.itn3.co.ke
+    [CONTEXT_PREFIX] => 
+    [REQUEST_SCHEME] => https
+    [DOCUMENT_ROOT] => /home/itncoke1/projectsearch.itn3.co.ke
+    [REMOTE_ADDR] => 196.201.212.136
+    [SERVER_PORT] => 443
+    [SERVER_ADDR] => 173.237.185.110
+    [SERVER_NAME] => projectsearch.itn3.co.ke
+    [SERVER_SOFTWARE] => Apache
+    [SERVER_SIGNATURE] => 
+    [PATH] => /usr/local/jdk/bin:/usr/kerberos/sbin:/usr/kerberos/bin:/usr/local/sbin:/usr/local/bin:/sbin:/bin:/usr/sbin:/usr/bin:/usr/X11R6/bin:/usr/local/bin:/usr/X11R6/bin:/root/bin:/opt/bin
+    [HTTP_X_RUXIT_FORWARDED_FOR] => 10.195.4.68
+    [HTTP_X_DYNATRACE_REQUESTSTATE] => agentId=0x98504140461d7892&pathDepth=1
+    [HTTP_COOKIE] => dtCookie=v_4_srv_7_sn_F546837891E5E950A3CFFC62C675C207_perc_100000_ol_0_mul_1_app-3Aea7c4b59f27d43eb_1_rcs-3Acss_0
+    [HTTP_X_DYNATRACE_ORIGIN_URL] => https://internalsandbox.safaricom.co.ke/mpesa/stkpushresults/v1/submit
+    [HTTP_X_DYNATRACE_APPLICATION] => 1%3B1%3Bea7c4b59f27d43eb
+    [HTTP_USER_AGENT] => BW-HTTPClient/5.4
+    [HTTP_TRACESTATE] => 265f7333-c11c5b27@dt=fw4;7;461d7892;11fea71;3;1;0;3c7;183a;2h01;3h461d7892;4h011fea71;5h01;7h5b30f82b10d4959c,181ea755-a07e0240@dt=fw4;1;542579be;b5d;0;0;0;25e;1986;2h01;3h542579be;4h0b5d;5h01;7h4f9054e337818d94
+    [HTTP_TRACEPARENT] => 00-a5969bc03a2fcc42d4cec49b54a0fa24-5b30f82b10d4959c-00
+    [HTTP_X_DYNATRACE] => FW4;-1055106265;7;1176336530;18868849;-2147483645;643789619;967;43d0;2h01;3h461d7892;4h011fea71;5h01;6ha5969bc03a2fcc42d4cec49b54a0fa24;7h5b30f82b10d4959c
+    [HTTP_ACCEPT_CHARSET] => iso-8859-1,*,utf-8
+    [HTTP_ACCEPT] => image/gif, image/x-xbitmap, image/jpeg, image/pjpeg, image/png, */*
+    [HTTP_ACCEPT_ENCODING] => gzip
+    [CONTENT_TYPE] => application/json;charset=UTF-8
+    [CONTENT_LENGTH] => 413
+    [HTTP_X_FORWARDED_PROTO] => https
+    [HTTP_X_FORWARDED_PORT] => 443
+    [HTTP_X_FORWARDED_FOR] => 10.195.4.68
+    [HTTP_HOST] => projectsearch.itn3.co.ke
+    [proxy-nokeepalive] => 1
+    [SSL_TLS_SNI] => projectsearch.itn3.co.ke
+    [HTTPS] => on
+    [UNIQUE_ID] => YbS4DK-r_omZ2M9WJVwT0AAAAdc
+    [FCGI_ROLE] => RESPONDER
+    [PHP_SELF] => /config/ExpressCheckout/lnmo_result_url.php
+    [REQUEST_TIME_FLOAT] => 1639233548.9478
+    [REQUEST_TIME] => 1639233548
+    [argv] => Array
+        (
+        )
+
+    [argc] => 0
+)
+
+Array
+(
+    [USER] => itncoke1
+    [HOME] => /home/itncoke1
+    [SCRIPT_NAME] => /config/ExpressCheckout/lnmo_result_url.php
+    [REQUEST_URI] => /config/ExpressCheckout/lnmo_result_url.php
+    [QUERY_STRING] => 
+    [REQUEST_METHOD] => POST
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [REMOTE_PORT] => 34580
+    [SCRIPT_FILENAME] => /home/itncoke1/projectsearch.itn3.co.ke/config/ExpressCheckout/lnmo_result_url.php
+    [SERVER_ADMIN] => webmaster@projectsearch.itn3.co.ke
+    [CONTEXT_DOCUMENT_ROOT] => /home/itncoke1/projectsearch.itn3.co.ke
+    [CONTEXT_PREFIX] => 
+    [REQUEST_SCHEME] => https
+    [DOCUMENT_ROOT] => /home/itncoke1/projectsearch.itn3.co.ke
+    [REMOTE_ADDR] => 196.201.213.44
+    [SERVER_PORT] => 443
+    [SERVER_ADDR] => 173.237.185.110
+    [SERVER_NAME] => projectsearch.itn3.co.ke
+    [SERVER_SOFTWARE] => Apache
+    [SERVER_SIGNATURE] => 
+    [PATH] => /usr/local/jdk/bin:/usr/kerberos/sbin:/usr/kerberos/bin:/usr/local/sbin:/usr/local/bin:/sbin:/bin:/usr/sbin:/usr/bin:/usr/X11R6/bin:/usr/local/bin:/usr/X11R6/bin:/root/bin:/opt/bin
+    [HTTP_X_RUXIT_FORWARDED_FOR] => 10.195.4.183
+    [HTTP_X_DYNATRACE_REQUESTSTATE] => agentId=0x75941c6ee9b64bfc&pathDepth=1
+    [HTTP_COOKIE] => dtCookie=v_4_srv_3_sn_A0FA17AD34BA2ED57CB86477B1752AF0_perc_100000_ol_0_mul_1_app-3Aea7c4b59f27d43eb_1_rcs-3Acss_0
+    [HTTP_X_DYNATRACE_ORIGIN_URL] => https://internalsandbox.safaricom.co.ke/mpesa/stkpushresults/v1/submit
+    [HTTP_X_DYNATRACE_APPLICATION] => 1%3B1%3Bea7c4b59f27d43eb
+    [HTTP_USER_AGENT] => BW-HTTPClient/5.4
+    [HTTP_TRACESTATE] => 265f7333-c11c5b27@dt=fw4;3;e9b64bfc;1775d85;3;1;0;1fa;66ec;2h01;3he9b64bfc;4h01775d85;5h01;7h0755bb8b198c0f4d,181ea755-a07e0240@dt=fw4;3;542579be;ce9;0;0;0;285;3445;2h01;3h542579be;4h0ce9;5h01;7h67135060e833f254
+    [HTTP_TRACEPARENT] => 00-7af295efabee06903700195fe64159b2-0755bb8b198c0f4d-00
+    [HTTP_X_DYNATRACE] => FW4;-1055106265;3;-373928964;24599941;-2147483645;643789619;506;aa8d;2h01;3he9b64bfc;4h01775d85;5h01;6h7af295efabee06903700195fe64159b2;7h0755bb8b198c0f4d
+    [HTTP_ACCEPT_CHARSET] => iso-8859-1,*,utf-8
+    [HTTP_ACCEPT] => image/gif, image/x-xbitmap, image/jpeg, image/pjpeg, image/png, */*
+    [HTTP_ACCEPT_ENCODING] => gzip
+    [CONTENT_TYPE] => application/json;charset=UTF-8
+    [CONTENT_LENGTH] => 415
+    [HTTP_X_FORWARDED_PROTO] => https
+    [HTTP_X_FORWARDED_PORT] => 443
+    [HTTP_X_FORWARDED_FOR] => 10.195.4.183
+    [HTTP_HOST] => projectsearch.itn3.co.ke
+    [proxy-nokeepalive] => 1
+    [SSL_TLS_SNI] => projectsearch.itn3.co.ke
+    [HTTPS] => on
+    [UNIQUE_ID] => YbYk0B3l3zbltR5FJVodpgAAApg
+    [FCGI_ROLE] => RESPONDER
+    [PHP_SELF] => /config/ExpressCheckout/lnmo_result_url.php
+    [REQUEST_TIME_FLOAT] => 1639326928.8338
+    [REQUEST_TIME] => 1639326928
+    [argv] => Array
+        (
+        )
+
+    [argc] => 0
+)
+
+Array
+(
+    [USER] => itncoke1
+    [HOME] => /home/itncoke1
+    [SCRIPT_NAME] => /config/ExpressCheckout/lnmo_result_url.php
+    [REQUEST_URI] => /config/ExpressCheckout/lnmo_result_url.php
+    [QUERY_STRING] => 
+    [REQUEST_METHOD] => POST
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [REMOTE_PORT] => 38474
+    [SCRIPT_FILENAME] => /home/itncoke1/projectsearch.itn3.co.ke/config/ExpressCheckout/lnmo_result_url.php
+    [SERVER_ADMIN] => webmaster@projectsearch.itn3.co.ke
+    [CONTEXT_DOCUMENT_ROOT] => /home/itncoke1/projectsearch.itn3.co.ke
+    [CONTEXT_PREFIX] => 
+    [REQUEST_SCHEME] => https
+    [DOCUMENT_ROOT] => /home/itncoke1/projectsearch.itn3.co.ke
+    [REMOTE_ADDR] => 196.201.213.44
+    [SERVER_PORT] => 443
+    [SERVER_ADDR] => 173.237.185.110
+    [SERVER_NAME] => projectsearch.itn3.co.ke
+    [SERVER_SOFTWARE] => Apache
+    [SERVER_SIGNATURE] => 
+    [PATH] => /usr/local/jdk/bin:/usr/kerberos/sbin:/usr/kerberos/bin:/usr/local/sbin:/usr/local/bin:/sbin:/bin:/usr/sbin:/usr/bin:/usr/X11R6/bin:/usr/local/bin:/usr/X11R6/bin:/root/bin:/opt/bin
+    [HTTP_X_RUXIT_FORWARDED_FOR] => 10.195.4.50
+    [HTTP_X_DYNATRACE_REQUESTSTATE] => agentId=0x225fe66ece02c183&pathDepth=1
+    [HTTP_COOKIE] => dtCookie=v_4_srv_4_sn_A847DB6F5DAE9C8EDCBE33C4D6C677AB_perc_100000_ol_0_mul_1_app-3Aea7c4b59f27d43eb_1_rcs-3Acss_0
+    [HTTP_X_DYNATRACE_ORIGIN_URL] => https://internalsandbox.safaricom.co.ke/mpesa/stkpushresults/v1/submit
+    [HTTP_X_DYNATRACE_APPLICATION] => 1%3B1%3Bea7c4b59f27d43eb
+    [HTTP_USER_AGENT] => BW-HTTPClient/5.4
+    [HTTP_TRACESTATE] => 265f7333-c11c5b27@dt=fw4;4;ce02c183;179d01e;3;0;3;6dd;b008;2h01;3hce02c183;4h0179d01e;5h01;7h80b227710d247016,181ea755-a07e0240@dt=fw4;4;542579be;ced;0;0;0;1f9;9a38;2h01;3h542579be;4h0ced;5h01;7hfcaacf8bb088b423
+    [HTTP_TRACEPARENT] => 00-32fe3ab8eb37bfc9f72e24881e1a04cb-80b227710d247016-01
+    [HTTP_X_DYNATRACE] => FW4;-1055106265;4;-838680189;24760350;402653187;643789619;1757;0273;2h01;3hce02c183;4h0179d01e;5h01;6h32fe3ab8eb37bfc9f72e24881e1a04cb;7h80b227710d247016
+    [HTTP_ACCEPT_CHARSET] => iso-8859-1,*,utf-8
+    [HTTP_ACCEPT] => image/gif, image/x-xbitmap, image/jpeg, image/pjpeg, image/png, */*
+    [HTTP_ACCEPT_ENCODING] => gzip
+    [CONTENT_TYPE] => application/json;charset=UTF-8
+    [CONTENT_LENGTH] => 171
+    [HTTP_X_FORWARDED_PROTO] => https
+    [HTTP_X_FORWARDED_PORT] => 443
+    [HTTP_X_FORWARDED_FOR] => 10.195.4.50
+    [HTTP_HOST] => projectsearch.itn3.co.ke
+    [proxy-nokeepalive] => 1
+    [SSL_TLS_SNI] => projectsearch.itn3.co.ke
+    [HTTPS] => on
+    [UNIQUE_ID] => YbYlRhEDOg0okwb18gEs7QAAAVM
+    [FCGI_ROLE] => RESPONDER
+    [PHP_SELF] => /config/ExpressCheckout/lnmo_result_url.php
+    [REQUEST_TIME_FLOAT] => 1639327046.7618
+    [REQUEST_TIME] => 1639327046
+    [argv] => Array
+        (
+        )
+
+    [argc] => 0
+)
+
+Array
+(
+    [USER] => itncoke1
+    [HOME] => /home/itncoke1
+    [SCRIPT_NAME] => /config/ExpressCheckout/lnmo_result_url.php
+    [REQUEST_URI] => /config/ExpressCheckout/lnmo_result_url.php
+    [QUERY_STRING] => 
+    [REQUEST_METHOD] => POST
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [REMOTE_PORT] => 37360
+    [SCRIPT_FILENAME] => /home/itncoke1/projectsearch.itn3.co.ke/config/ExpressCheckout/lnmo_result_url.php
+    [SERVER_ADMIN] => webmaster@projectsearch.itn3.co.ke
+    [CONTEXT_DOCUMENT_ROOT] => /home/itncoke1/projectsearch.itn3.co.ke
+    [CONTEXT_PREFIX] => 
+    [REQUEST_SCHEME] => https
+    [DOCUMENT_ROOT] => /home/itncoke1/projectsearch.itn3.co.ke
+    [REMOTE_ADDR] => 196.201.214.200
+    [SERVER_PORT] => 443
+    [SERVER_ADDR] => 173.237.185.110
+    [SERVER_NAME] => projectsearch.itn3.co.ke
+    [SERVER_SOFTWARE] => Apache
+    [SERVER_SIGNATURE] => 
+    [PATH] => /usr/local/jdk/bin:/usr/kerberos/sbin:/usr/kerberos/bin:/usr/local/sbin:/usr/local/bin:/sbin:/bin:/usr/sbin:/usr/bin:/usr/X11R6/bin:/usr/local/bin:/usr/X11R6/bin:/root/bin:/opt/bin
+    [HTTP_X_RUXIT_FORWARDED_FOR] => 10.195.5.189
+    [HTTP_X_DYNATRACE_REQUESTSTATE] => agentId=0xe1b706b2ccb38633&pathDepth=1
+    [HTTP_COOKIE] => dtCookie=v_4_srv_7_sn_8372AEA233EB19D8B8F67C688AE6C58F_perc_100000_ol_0_mul_1_app-3Aea7c4b59f27d43eb_1_rcs-3Acss_1
+    [HTTP_X_DYNATRACE_ORIGIN_URL] => https://internalsandbox.safaricom.co.ke/mpesa/stkpushresults/v1/submit
+    [HTTP_X_DYNATRACE_APPLICATION] => 1%3B1%3Bea7c4b59f27d43eb
+    [HTTP_USER_AGENT] => BW-HTTPClient/5.4
+    [HTTP_TRACESTATE] => 265f7333-c11c5b27@dt=fw4;7;ccb38633;2a3b70b;3;0;0;1be;be34;2h01;3hccb38633;4h02a3b70b;5h01;7h61f3e4cae2e03bc3,181ea755-a07e0240@dt=fw4;1;542579be;d8f;0;0;0;1fd;3726;2h01;3h542579be;4h0d8f;5h01;7h032df167bddb758b
+    [HTTP_TRACEPARENT] => 00-88330b41e0902714b8d3785076d1d465-61f3e4cae2e03bc3-01
+    [HTTP_X_DYNATRACE] => FW4;-1055106265;7;-860649933;44283659;3;643789619;446;4715;2h01;3hccb38633;4h02a3b70b;5h01;6h88330b41e0902714b8d3785076d1d465;7h61f3e4cae2e03bc3
+    [HTTP_ACCEPT_CHARSET] => iso-8859-1,*,utf-8
+    [HTTP_ACCEPT] => image/gif, image/x-xbitmap, image/jpeg, image/pjpeg, image/png, */*
+    [HTTP_ACCEPT_ENCODING] => gzip
+    [CONTENT_TYPE] => application/json;charset=UTF-8
+    [CONTENT_LENGTH] => 414
+    [HTTP_X_FORWARDED_PROTO] => https
+    [HTTP_X_FORWARDED_PORT] => 443
+    [HTTP_X_FORWARDED_FOR] => 10.195.5.189
+    [HTTP_HOST] => projectsearch.itn3.co.ke
+    [proxy-nokeepalive] => 1
+    [SSL_TLS_SNI] => projectsearch.itn3.co.ke
+    [HTTPS] => on
+    [UNIQUE_ID] => YbaHmcP--zz2iB3A_ho0CwAAAAE
+    [FCGI_ROLE] => RESPONDER
+    [PHP_SELF] => /config/ExpressCheckout/lnmo_result_url.php
+    [REQUEST_TIME_FLOAT] => 1639352217.4853
+    [REQUEST_TIME] => 1639352217
+    [argv] => Array
+        (
+        )
+
+    [argc] => 0
+)
+
+Array
+(
+    [USER] => itncoke1
+    [HOME] => /home/itncoke1
+    [SCRIPT_NAME] => /config/ExpressCheckout/lnmo_result_url.php
+    [REQUEST_URI] => /config/ExpressCheckout/lnmo_result_url.php
+    [QUERY_STRING] => 
+    [REQUEST_METHOD] => POST
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [REMOTE_PORT] => 51370
+    [SCRIPT_FILENAME] => /home/itncoke1/projectsearch.itn3.co.ke/config/ExpressCheckout/lnmo_result_url.php
+    [SERVER_ADMIN] => webmaster@projectsearch.itn3.co.ke
+    [CONTEXT_DOCUMENT_ROOT] => /home/itncoke1/projectsearch.itn3.co.ke
+    [CONTEXT_PREFIX] => 
+    [REQUEST_SCHEME] => https
+    [DOCUMENT_ROOT] => /home/itncoke1/projectsearch.itn3.co.ke
+    [REMOTE_ADDR] => 196.201.212.69
+    [SERVER_PORT] => 443
+    [SERVER_ADDR] => 173.237.185.110
+    [SERVER_NAME] => projectsearch.itn3.co.ke
+    [SERVER_SOFTWARE] => Apache
+    [SERVER_SIGNATURE] => 
+    [PATH] => /usr/local/jdk/bin:/usr/kerberos/sbin:/usr/kerberos/bin:/usr/local/sbin:/usr/local/bin:/sbin:/bin:/usr/sbin:/usr/bin:/usr/X11R6/bin:/usr/local/bin:/usr/X11R6/bin:/root/bin:/opt/bin
+    [HTTP_X_RUXIT_FORWARDED_FOR] => 10.195.5.137
+    [HTTP_X_DYNATRACE_REQUESTSTATE] => agentId=0x98504140461d7892&pathDepth=1
+    [HTTP_COOKIE] => dtCookie=v_4_srv_2_sn_8903828D5DC2087A94C7BFAAE7B2B1ED_perc_100000_ol_0_mul_1_app-3Aea7c4b59f27d43eb_1_rcs-3Acss_0
+    [HTTP_X_DYNATRACE_ORIGIN_URL] => https://internalsandbox.safaricom.co.ke/mpesa/stkpushresults/v1/submit
+    [HTTP_X_DYNATRACE_APPLICATION] => 1%3B1%3Bea7c4b59f27d43eb
+    [HTTP_USER_AGENT] => BW-HTTPClient/5.4
+    [HTTP_TRACESTATE] => 265f7333-c11c5b27@dt=fw4;2;461d7892;18c0113;3;0;0;2a3;e059;2h01;3h461d7892;4h018c0113;5h01;7hc77507eb425a8395,181ea755-a07e0240@dt=fw4;2;542579be;d91;0;0;0;1ba;c506;2h01;3h542579be;4h0d91;5h01;7haae1da2d781a93ed
+    [HTTP_TRACEPARENT] => 00-92058673e1ebfb7d59ae2e91da073d5e-c77507eb425a8395-01
+    [HTTP_X_DYNATRACE] => FW4;-1055106265;2;1176336530;25952531;3;643789619;675;368c;2h01;3h461d7892;4h018c0113;5h01;6h92058673e1ebfb7d59ae2e91da073d5e;7hc77507eb425a8395
+    [HTTP_ACCEPT_CHARSET] => iso-8859-1,*,utf-8
+    [HTTP_ACCEPT] => image/gif, image/x-xbitmap, image/jpeg, image/pjpeg, image/png, */*
+    [HTTP_ACCEPT_ENCODING] => gzip
+    [CONTENT_TYPE] => application/json;charset=UTF-8
+    [CONTENT_LENGTH] => 413
+    [HTTP_X_FORWARDED_PROTO] => https
+    [HTTP_X_FORWARDED_PORT] => 443
+    [HTTP_X_FORWARDED_FOR] => 10.195.5.137
+    [HTTP_HOST] => projectsearch.itn3.co.ke
+    [proxy-nokeepalive] => 1
+    [SSL_TLS_SNI] => projectsearch.itn3.co.ke
+    [HTTPS] => on
+    [UNIQUE_ID] => YbaMLv8OnbjnWT6LUYaQMAAAANg
+    [FCGI_ROLE] => RESPONDER
+    [PHP_SELF] => /config/ExpressCheckout/lnmo_result_url.php
+    [REQUEST_TIME_FLOAT] => 1639353390.2229
+    [REQUEST_TIME] => 1639353390
+    [argv] => Array
+        (
+        )
+
+    [argc] => 0
+)
+
+Array
+(
+    [USER] => itncoke1
+    [HOME] => /home/itncoke1
+    [SCRIPT_NAME] => /config/ExpressCheckout/lnmo_result_url.php
+    [REQUEST_URI] => /config/ExpressCheckout/lnmo_result_url.php
+    [QUERY_STRING] => 
+    [REQUEST_METHOD] => POST
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [REMOTE_PORT] => 33028
+    [SCRIPT_FILENAME] => /home/itncoke1/projectsearch.itn3.co.ke/config/ExpressCheckout/lnmo_result_url.php
+    [SERVER_ADMIN] => webmaster@projectsearch.itn3.co.ke
+    [CONTEXT_DOCUMENT_ROOT] => /home/itncoke1/projectsearch.itn3.co.ke
+    [CONTEXT_PREFIX] => 
+    [REQUEST_SCHEME] => https
+    [DOCUMENT_ROOT] => /home/itncoke1/projectsearch.itn3.co.ke
+    [REMOTE_ADDR] => 196.201.213.44
+    [SERVER_PORT] => 443
+    [SERVER_ADDR] => 173.237.185.110
+    [SERVER_NAME] => projectsearch.itn3.co.ke
+    [SERVER_SOFTWARE] => Apache
+    [SERVER_SIGNATURE] => 
+    [PATH] => /usr/local/jdk/bin:/usr/kerberos/sbin:/usr/kerberos/bin:/usr/local/sbin:/usr/local/bin:/sbin:/bin:/usr/sbin:/usr/bin:/usr/X11R6/bin:/usr/local/bin:/usr/X11R6/bin:/root/bin:/opt/bin
+    [HTTP_X_RUXIT_FORWARDED_FOR] => 10.195.4.184
+    [HTTP_X_DYNATRACE_REQUESTSTATE] => agentId=0x225fe66ece02c183&pathDepth=1
+    [HTTP_COOKIE] => dtCookie=v_4_srv_1_sn_D43DC8135533E391E9035E90DE77A483_perc_100000_ol_0_mul_1_app-3Aea7c4b59f27d43eb_1_rcs-3Acss_0
+    [HTTP_X_DYNATRACE_ORIGIN_URL] => https://internalsandbox.safaricom.co.ke/mpesa/stkpushresults/v1/submit
+    [HTTP_X_DYNATRACE_APPLICATION] => 1%3B1%3Bea7c4b59f27d43eb
+    [HTTP_USER_AGENT] => BW-HTTPClient/5.4
+    [HTTP_TRACESTATE] => 265f7333-c11c5b27@dt=fw4;1;ce02c183;204cc2e;3;1;0;1b6;8e5b;2h01;3hce02c183;4h0204cc2e;5h01;7h98b98c4dad976711,181ea755-a07e0240@dt=fw4;1;542579be;1191;0;0;0;2b4;1634;2h01;3h542579be;4h1191;5h01;7hd29f172846f28db0
+    [HTTP_TRACEPARENT] => 00-b3db22cc082276d63bbbe09af04ef1a3-98b98c4dad976711-00
+    [HTTP_X_DYNATRACE] => FW4;-1055106265;1;-838680189;33868846;-2147483645;643789619;438;668e;2h01;3hce02c183;4h0204cc2e;5h01;6hb3db22cc082276d63bbbe09af04ef1a3;7h98b98c4dad976711
+    [HTTP_ACCEPT_CHARSET] => iso-8859-1,*,utf-8
+    [HTTP_ACCEPT] => image/gif, image/x-xbitmap, image/jpeg, image/pjpeg, image/png, */*
+    [HTTP_ACCEPT_ENCODING] => gzip
+    [CONTENT_TYPE] => application/json;charset=UTF-8
+    [CONTENT_LENGTH] => 415
+    [HTTP_X_FORWARDED_PROTO] => https
+    [HTTP_X_FORWARDED_PORT] => 443
+    [HTTP_X_FORWARDED_FOR] => 10.195.4.184
+    [HTTP_HOST] => projectsearch.itn3.co.ke
+    [proxy-nokeepalive] => 1
+    [SSL_TLS_SNI] => projectsearch.itn3.co.ke
+    [HTTPS] => on
+    [UNIQUE_ID] => YbibdFk2iTN78X3j8vkrmAAAAYs
+    [FCGI_ROLE] => RESPONDER
+    [PHP_SELF] => /config/ExpressCheckout/lnmo_result_url.php
+    [REQUEST_TIME_FLOAT] => 1639488372.1157
+    [REQUEST_TIME] => 1639488372
+    [argv] => Array
+        (
+        )
+
+    [argc] => 0
+)
+
+Array
+(
+    [USER] => itncoke1
+    [HOME] => /home/itncoke1
+    [SCRIPT_NAME] => /config/ExpressCheckout/lnmo_result_url.php
+    [REQUEST_URI] => /config/ExpressCheckout/lnmo_result_url.php
+    [QUERY_STRING] => 
+    [REQUEST_METHOD] => POST
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [REMOTE_PORT] => 53486
+    [SCRIPT_FILENAME] => /home/itncoke1/projectsearch.itn3.co.ke/config/ExpressCheckout/lnmo_result_url.php
+    [SERVER_ADMIN] => webmaster@projectsearch.itn3.co.ke
+    [CONTEXT_DOCUMENT_ROOT] => /home/itncoke1/projectsearch.itn3.co.ke
+    [CONTEXT_PREFIX] => 
+    [REQUEST_SCHEME] => https
+    [DOCUMENT_ROOT] => /home/itncoke1/projectsearch.itn3.co.ke
+    [REMOTE_ADDR] => 196.201.212.138
+    [SERVER_PORT] => 443
+    [SERVER_ADDR] => 173.237.185.110
+    [SERVER_NAME] => projectsearch.itn3.co.ke
+    [SERVER_SOFTWARE] => Apache
+    [SERVER_SIGNATURE] => 
+    [PATH] => /usr/local/jdk/bin:/usr/kerberos/sbin:/usr/kerberos/bin:/usr/local/sbin:/usr/local/bin:/sbin:/bin:/usr/sbin:/usr/bin:/usr/X11R6/bin:/usr/local/bin:/usr/X11R6/bin:/root/bin:/opt/bin
+    [HTTP_X_RUXIT_FORWARDED_FOR] => 10.195.5.235
+    [HTTP_X_DYNATRACE_REQUESTSTATE] => agentId=0x69e5d79b3a097b78&pathDepth=1
+    [HTTP_COOKIE] => dtCookie=v_4_srv_4_sn_09DFB29412BE02526C9CF3D1922F3003_perc_100000_ol_0_mul_1_app-3Aea7c4b59f27d43eb_1_rcs-3Acss_0
+    [HTTP_X_DYNATRACE_ORIGIN_URL] => https://internalsandbox.safaricom.co.ke/mpesa/stkpushresults/v1/submit
+    [HTTP_X_DYNATRACE_APPLICATION] => 1%3B1%3Bea7c4b59f27d43eb
+    [HTTP_USER_AGENT] => BW-HTTPClient/5.4
+    [HTTP_TRACESTATE] => 265f7333-c11c5b27@dt=fw4;4;3a097b78;44916b;3;1;0;237;b262;2h01;3h3a097b78;4h44916b;5h01;7h5d8b2437f3f50292,181ea755-a07e0240@dt=fw4;4;542579be;1287;0;0;0;243;ff75;2h01;3h542579be;4h1287;5h01;7h0bd12a005fd688da
+    [HTTP_TRACEPARENT] => 00-402bab7a93c86d3da28606fab8f5655e-5d8b2437f3f50292-00
+    [HTTP_X_DYNATRACE] => FW4;-1055106265;4;973699960;4493675;-2147483645;643789619;567;2ee1;2h01;3h3a097b78;4h44916b;5h01;6h402bab7a93c86d3da28606fab8f5655e;7h5d8b2437f3f50292
+    [HTTP_ACCEPT_CHARSET] => iso-8859-1,*,utf-8
+    [HTTP_ACCEPT] => image/gif, image/x-xbitmap, image/jpeg, image/pjpeg, image/png, */*
+    [HTTP_ACCEPT_ENCODING] => gzip
+    [CONTENT_TYPE] => application/json;charset=UTF-8
+    [CONTENT_LENGTH] => 413
+    [HTTP_X_FORWARDED_PROTO] => https
+    [HTTP_X_FORWARDED_PORT] => 443
+    [HTTP_X_FORWARDED_FOR] => 10.195.5.235
+    [HTTP_HOST] => projectsearch.itn3.co.ke
+    [proxy-nokeepalive] => 1
+    [SSL_TLS_SNI] => projectsearch.itn3.co.ke
+    [HTTPS] => on
+    [UNIQUE_ID] => YbjgflcMPh8mtfVBmijYkwAAApQ
+    [FCGI_ROLE] => RESPONDER
+    [PHP_SELF] => /config/ExpressCheckout/lnmo_result_url.php
+    [REQUEST_TIME_FLOAT] => 1639506046.9253
+    [REQUEST_TIME] => 1639506046
+    [argv] => Array
+        (
+        )
+
+    [argc] => 0
+)
+
+Array
+(
+    [USER] => itncoke1
+    [HOME] => /home/itncoke1
+    [SCRIPT_NAME] => /config/ExpressCheckout/lnmo_result_url.php
+    [REQUEST_URI] => /config/ExpressCheckout/lnmo_result_url.php
+    [QUERY_STRING] => 
+    [REQUEST_METHOD] => POST
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [REMOTE_PORT] => 38676
+    [SCRIPT_FILENAME] => /home/itncoke1/projectsearch.itn3.co.ke/config/ExpressCheckout/lnmo_result_url.php
+    [SERVER_ADMIN] => webmaster@projectsearch.itn3.co.ke
+    [CONTEXT_DOCUMENT_ROOT] => /home/itncoke1/projectsearch.itn3.co.ke
+    [CONTEXT_PREFIX] => 
+    [REQUEST_SCHEME] => https
+    [DOCUMENT_ROOT] => /home/itncoke1/projectsearch.itn3.co.ke
+    [REMOTE_ADDR] => 196.201.214.208
+    [SERVER_PORT] => 443
+    [SERVER_ADDR] => 173.237.185.110
+    [SERVER_NAME] => projectsearch.itn3.co.ke
+    [SERVER_SOFTWARE] => Apache
+    [SERVER_SIGNATURE] => 
+    [PATH] => /usr/local/jdk/bin:/usr/kerberos/sbin:/usr/kerberos/bin:/usr/local/sbin:/usr/local/bin:/sbin:/bin:/usr/sbin:/usr/bin:/usr/X11R6/bin:/usr/local/bin:/usr/X11R6/bin:/root/bin:/opt/bin
+    [HTTP_X_RUXIT_FORWARDED_FOR] => 10.195.4.204
+    [HTTP_X_DYNATRACE_REQUESTSTATE] => agentId=0xc7b03b803321c0ab&pathDepth=1
+    [HTTP_COOKIE] => dtCookie=v_4_srv_5_sn_4A468C67F7438D1426DB1FAE9B2BD9C7_perc_100000_ol_0_mul_1_app-3Aea7c4b59f27d43eb_1_rcs-3Acss_0
+    [HTTP_X_DYNATRACE_ORIGIN_URL] => https://internalsandbox.safaricom.co.ke/mpesa/stkpushresults/v1/submit
+    [HTTP_X_DYNATRACE_APPLICATION] => 1%3B1%3Bea7c4b59f27d43eb
+    [HTTP_USER_AGENT] => BW-HTTPClient/5.4
+    [HTTP_TRACESTATE] => 265f7333-c11c5b27@dt=fw4;5;3321c0ab;63b4d4;3;1;0;1be;52f1;2h01;3h3321c0ab;4h63b4d4;5h01;7had57e9bda011d629,181ea755-a07e0240@dt=fw4;5;542579be;1417;0;0;0;170;6eb8;2h01;3h542579be;4h1417;5h01;7h36ec9770acd9866c
+    [HTTP_TRACEPARENT] => 00-57e81d4e7cd2668c868c65559d64c697-ad57e9bda011d629-00
+    [HTTP_X_DYNATRACE] => FW4;-1055106265;5;857850027;6534356;-2147483645;643789619;446;0025;2h01;3h3321c0ab;4h63b4d4;5h01;6h57e81d4e7cd2668c868c65559d64c697;7had57e9bda011d629
+    [HTTP_ACCEPT_CHARSET] => iso-8859-1,*,utf-8
+    [HTTP_ACCEPT] => image/gif, image/x-xbitmap, image/jpeg, image/pjpeg, image/png, */*
+    [HTTP_ACCEPT_ENCODING] => gzip
+    [CONTENT_TYPE] => application/json;charset=UTF-8
+    [CONTENT_LENGTH] => 414
+    [HTTP_X_FORWARDED_PROTO] => https
+    [HTTP_X_FORWARDED_PORT] => 443
+    [HTTP_X_FORWARDED_FOR] => 10.195.4.204
+    [HTTP_HOST] => projectsearch.itn3.co.ke
+    [proxy-nokeepalive] => 1
+    [SSL_TLS_SNI] => projectsearch.itn3.co.ke
+    [HTTPS] => on
+    [UNIQUE_ID] => YbmkvyL8gzgyJyVb6S5kmgAAAY4
+    [FCGI_ROLE] => RESPONDER
+    [PHP_SELF] => /config/ExpressCheckout/lnmo_result_url.php
+    [REQUEST_TIME_FLOAT] => 1639556287.206
+    [REQUEST_TIME] => 1639556287
+    [argv] => Array
+        (
+        )
+
+    [argc] => 0
+)
+
+Array
+(
+    [USER] => itncoke1
+    [HOME] => /home/itncoke1
+    [SCRIPT_NAME] => /config/ExpressCheckout/lnmo_result_url.php
+    [REQUEST_URI] => /config/ExpressCheckout/lnmo_result_url.php
+    [QUERY_STRING] => 
+    [REQUEST_METHOD] => POST
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [REMOTE_PORT] => 43138
+    [SCRIPT_FILENAME] => /home/itncoke1/projectsearch.itn3.co.ke/config/ExpressCheckout/lnmo_result_url.php
+    [SERVER_ADMIN] => webmaster@projectsearch.itn3.co.ke
+    [CONTEXT_DOCUMENT_ROOT] => /home/itncoke1/projectsearch.itn3.co.ke
+    [CONTEXT_PREFIX] => 
+    [REQUEST_SCHEME] => https
+    [DOCUMENT_ROOT] => /home/itncoke1/projectsearch.itn3.co.ke
+    [REMOTE_ADDR] => 196.201.213.44
+    [SERVER_PORT] => 443
+    [SERVER_ADDR] => 173.237.185.110
+    [SERVER_NAME] => projectsearch.itn3.co.ke
+    [SERVER_SOFTWARE] => Apache
+    [SERVER_SIGNATURE] => 
+    [PATH] => /usr/local/jdk/bin:/usr/kerberos/sbin:/usr/kerberos/bin:/usr/local/sbin:/usr/local/bin:/sbin:/bin:/usr/sbin:/usr/bin:/usr/X11R6/bin:/usr/local/bin:/usr/X11R6/bin:/root/bin:/opt/bin
+    [HTTP_X_RUXIT_FORWARDED_FOR] => 10.195.4.196
+    [HTTP_X_DYNATRACE_REQUESTSTATE] => agentId=0x1e40b4465adf5587&pathDepth=1
+    [HTTP_COOKIE] => dtCookie=v_4_srv_1_sn_93AE63BC8A2B9CE6F40877A6A279CAF8_perc_100000_ol_0_mul_1_app-3Aea7c4b59f27d43eb_1_rcs-3Acss_0
+    [HTTP_X_DYNATRACE_ORIGIN_URL] => https://internalsandbox.safaricom.co.ke/mpesa/stkpushresults/v1/submit
+    [HTTP_X_DYNATRACE_APPLICATION] => 1%3B1%3Bea7c4b59f27d43eb
+    [HTTP_USER_AGENT] => BW-HTTPClient/5.4
+    [HTTP_TRACESTATE] => 265f7333-c11c5b27@dt=fw4;1;5adf5587;797aad;3;1;0;1f3;69ac;2h01;3h5adf5587;4h797aad;5h01;7hbba398c47ffd78df,181ea755-a07e0240@dt=fw4;1;542579be;17fb;0;0;0;18b;84a5;2h01;3h542579be;4h17fb;5h01;7h16d107a68243866b
+    [HTTP_TRACEPARENT] => 00-fb62d5accd8151f1a15aba3c355e753b-bba398c47ffd78df-00
+    [HTTP_X_DYNATRACE] => FW4;-1055106265;1;1524585863;7961261;-2147483645;643789619;499;44f3;2h01;3h5adf5587;4h797aad;5h01;6hfb62d5accd8151f1a15aba3c355e753b;7hbba398c47ffd78df
+    [HTTP_ACCEPT_CHARSET] => iso-8859-1,*,utf-8
+    [HTTP_ACCEPT] => image/gif, image/x-xbitmap, image/jpeg, image/pjpeg, image/png, */*
+    [HTTP_ACCEPT_ENCODING] => gzip
+    [CONTENT_TYPE] => application/json;charset=UTF-8
+    [CONTENT_LENGTH] => 413
+    [HTTP_X_FORWARDED_PROTO] => https
+    [HTTP_X_FORWARDED_PORT] => 443
+    [HTTP_X_FORWARDED_FOR] => 10.195.4.196
+    [HTTP_HOST] => projectsearch.itn3.co.ke
+    [proxy-nokeepalive] => 1
+    [SSL_TLS_SNI] => projectsearch.itn3.co.ke
+    [HTTPS] => on
+    [UNIQUE_ID] => YbskGtbliXnlNpC6T0sV1gAAAgY
+    [FCGI_ROLE] => RESPONDER
+    [PHP_SELF] => /config/ExpressCheckout/lnmo_result_url.php
+    [REQUEST_TIME_FLOAT] => 1639654426.2987
+    [REQUEST_TIME] => 1639654426
+    [argv] => Array
+        (
+        )
+
+    [argc] => 0
+)
+
+Array
+(
+    [USER] => itncoke1
+    [HOME] => /home/itncoke1
+    [SCRIPT_NAME] => /config/ExpressCheckout/lnmo_result_url.php
+    [REQUEST_URI] => /config/ExpressCheckout/lnmo_result_url.php
+    [QUERY_STRING] => 
+    [REQUEST_METHOD] => POST
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [REMOTE_PORT] => 50006
+    [SCRIPT_FILENAME] => /home/itncoke1/projectsearch.itn3.co.ke/config/ExpressCheckout/lnmo_result_url.php
+    [SERVER_ADMIN] => webmaster@projectsearch.itn3.co.ke
+    [CONTEXT_DOCUMENT_ROOT] => /home/itncoke1/projectsearch.itn3.co.ke
+    [CONTEXT_PREFIX] => 
+    [REQUEST_SCHEME] => https
+    [DOCUMENT_ROOT] => /home/itncoke1/projectsearch.itn3.co.ke
+    [REMOTE_ADDR] => 196.201.212.138
+    [SERVER_PORT] => 443
+    [SERVER_ADDR] => 173.237.185.110
+    [SERVER_NAME] => projectsearch.itn3.co.ke
+    [SERVER_SOFTWARE] => Apache
+    [SERVER_SIGNATURE] => 
+    [PATH] => /usr/local/jdk/bin:/usr/kerberos/sbin:/usr/kerberos/bin:/usr/local/sbin:/usr/local/bin:/sbin:/bin:/usr/sbin:/usr/bin:/usr/X11R6/bin:/usr/local/bin:/usr/X11R6/bin:/root/bin:/opt/bin
+    [HTTP_X_RUXIT_FORWARDED_FOR] => 10.195.5.95
+    [HTTP_X_DYNATRACE_REQUESTSTATE] => agentId=0x2aa6f7c69f76fb4c&pathDepth=1
+    [HTTP_COOKIE] => dtCookie=v_4_srv_1_sn_7AA0DC0E34FC471B6BAC27BAC05B27FB_perc_100000_ol_0_mul_1_app-3Aea7c4b59f27d43eb_1_rcs-3Acss_0
+    [HTTP_X_DYNATRACE_ORIGIN_URL] => https://internalsandbox.safaricom.co.ke/mpesa/stkpushresults/v1/submit
+    [HTTP_X_DYNATRACE_APPLICATION] => 1%3B1%3Bea7c4b59f27d43eb
+    [HTTP_USER_AGENT] => BW-HTTPClient/5.4
+    [HTTP_TRACESTATE] => 265f7333-c11c5b27@dt=fw4;1;9f76fb4c;2b9d09a;3;1;0;18f;f78d;2h01;3h9f76fb4c;4h02b9d09a;5h01;7h97d5fdc4c3662182,181ea755-a07e0240@dt=fw4;1;542579be;1895;0;0;0;1b9;f548;2h01;3h542579be;4h1895;5h01;7h2c4ed8f87acc92b3
+    [HTTP_TRACEPARENT] => 00-f2c2f2ab97e556fc3e44ee0a541bdc0a-97d5fdc4c3662182-00
+    [HTTP_X_DYNATRACE] => FW4;-1055106265;1;-1619592372;45731994;-2147483645;643789619;399;6066;2h01;3h9f76fb4c;4h02b9d09a;5h01;6hf2c2f2ab97e556fc3e44ee0a541bdc0a;7h97d5fdc4c3662182
+    [HTTP_ACCEPT_CHARSET] => iso-8859-1,*,utf-8
+    [HTTP_ACCEPT] => image/gif, image/x-xbitmap, image/jpeg, image/pjpeg, image/png, */*
+    [HTTP_ACCEPT_ENCODING] => gzip
+    [CONTENT_TYPE] => application/json;charset=UTF-8
+    [CONTENT_LENGTH] => 412
+    [HTTP_X_FORWARDED_PROTO] => https
+    [HTTP_X_FORWARDED_PORT] => 443
+    [HTTP_X_FORWARDED_FOR] => 10.195.5.95
+    [HTTP_HOST] => projectsearch.itn3.co.ke
+    [proxy-nokeepalive] => 1
+    [SSL_TLS_SNI] => projectsearch.itn3.co.ke
+    [HTTPS] => on
+    [UNIQUE_ID] => YbtHaTA2M8NjfWektUENmQAAABA
+    [FCGI_ROLE] => RESPONDER
+    [PHP_SELF] => /config/ExpressCheckout/lnmo_result_url.php
+    [REQUEST_TIME_FLOAT] => 1639663465.7053
+    [REQUEST_TIME] => 1639663465
+    [argv] => Array
+        (
+        )
+
+    [argc] => 0
+)
+
+Array
+(
+    [USER] => itncoke1
+    [HOME] => /home/itncoke1
+    [SCRIPT_NAME] => /config/ExpressCheckout/lnmo_result_url.php
+    [REQUEST_URI] => /config/ExpressCheckout/lnmo_result_url.php
+    [QUERY_STRING] => 
+    [REQUEST_METHOD] => POST
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [REMOTE_PORT] => 42024
+    [SCRIPT_FILENAME] => /home/itncoke1/projectsearch.itn3.co.ke/config/ExpressCheckout/lnmo_result_url.php
+    [SERVER_ADMIN] => webmaster@projectsearch.itn3.co.ke
+    [CONTEXT_DOCUMENT_ROOT] => /home/itncoke1/projectsearch.itn3.co.ke
+    [CONTEXT_PREFIX] => 
+    [REQUEST_SCHEME] => https
+    [DOCUMENT_ROOT] => /home/itncoke1/projectsearch.itn3.co.ke
+    [REMOTE_ADDR] => 196.201.212.136
+    [SERVER_PORT] => 443
+    [SERVER_ADDR] => 173.237.185.110
+    [SERVER_NAME] => projectsearch.itn3.co.ke
+    [SERVER_SOFTWARE] => Apache
+    [SERVER_SIGNATURE] => 
+    [PATH] => /usr/local/jdk/bin:/usr/kerberos/sbin:/usr/kerberos/bin:/usr/local/sbin:/usr/local/bin:/sbin:/bin:/usr/sbin:/usr/bin:/usr/X11R6/bin:/usr/local/bin:/usr/X11R6/bin:/root/bin:/opt/bin
+    [HTTP_X_RUXIT_FORWARDED_FOR] => 10.195.4.120
+    [HTTP_X_DYNATRACE_REQUESTSTATE] => agentId=0x50aa6b1c653fd1d2&pathDepth=1
+    [HTTP_COOKIE] => dtCookie=v_4_srv_5_sn_E530A623CA2E1F960F46EC8C6724EE49_perc_100000_ol_0_mul_1_app-3Aea7c4b59f27d43eb_1_rcs-3Acss_0
+    [HTTP_X_DYNATRACE_ORIGIN_URL] => https://internalsandbox.safaricom.co.ke/mpesa/stkpushresults/v1/submit
+    [HTTP_X_DYNATRACE_APPLICATION] => 1%3B1%3Bea7c4b59f27d43eb
+    [HTTP_USER_AGENT] => BW-HTTPClient/5.4
+    [HTTP_TRACESTATE] => 265f7333-c11c5b27@dt=fw4;5;653fd1d2;a13464;3;1;0;1c5;3bd9;2h01;3h653fd1d2;4ha13464;5h01;7h4b9c9a80bacd8dbb,181ea755-a07e0240@dt=fw4;5;542579be;18ff;0;0;0;39d;90fe;2h01;3h542579be;4h18ff;5h01;7hef3ac1ba8131e80b
+    [HTTP_TRACEPARENT] => 00-e35bb38dc45614e48a5bb5058cafd8cf-4b9c9a80bacd8dbb-00
+    [HTTP_X_DYNATRACE] => FW4;-1055106265;5;1698681298;10564708;-2147483645;643789619;453;59de;2h01;3h653fd1d2;4ha13464;5h01;6he35bb38dc45614e48a5bb5058cafd8cf;7h4b9c9a80bacd8dbb
+    [HTTP_ACCEPT_CHARSET] => iso-8859-1,*,utf-8
+    [HTTP_ACCEPT] => image/gif, image/x-xbitmap, image/jpeg, image/pjpeg, image/png, */*
+    [HTTP_ACCEPT_ENCODING] => gzip
+    [CONTENT_TYPE] => application/json;charset=UTF-8
+    [CONTENT_LENGTH] => 412
+    [HTTP_X_FORWARDED_PROTO] => https
+    [HTTP_X_FORWARDED_PORT] => 443
+    [HTTP_X_FORWARDED_FOR] => 10.195.4.120
+    [HTTP_HOST] => projectsearch.itn3.co.ke
+    [proxy-nokeepalive] => 1
+    [SSL_TLS_SNI] => projectsearch.itn3.co.ke
+    [HTTPS] => on
+    [UNIQUE_ID] => YbuJjaFlv6JW2mSLBClO0wAAAUs
+    [FCGI_ROLE] => RESPONDER
+    [PHP_SELF] => /config/ExpressCheckout/lnmo_result_url.php
+    [REQUEST_TIME_FLOAT] => 1639680397.3109
+    [REQUEST_TIME] => 1639680397
+    [argv] => Array
+        (
+        )
+
+    [argc] => 0
+)
+
+Array
+(
+    [USER] => itncoke1
+    [HOME] => /home/itncoke1
+    [SCRIPT_NAME] => /config/ExpressCheckout/lnmo_result_url.php
+    [REQUEST_URI] => /config/ExpressCheckout/lnmo_result_url.php
+    [QUERY_STRING] => 
+    [REQUEST_METHOD] => POST
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [REMOTE_PORT] => 54008
+    [SCRIPT_FILENAME] => /home/itncoke1/projectsearch.itn3.co.ke/config/ExpressCheckout/lnmo_result_url.php
+    [SERVER_ADMIN] => webmaster@projectsearch.itn3.co.ke
+    [CONTEXT_DOCUMENT_ROOT] => /home/itncoke1/projectsearch.itn3.co.ke
+    [CONTEXT_PREFIX] => 
+    [REQUEST_SCHEME] => https
+    [DOCUMENT_ROOT] => /home/itncoke1/projectsearch.itn3.co.ke
+    [REMOTE_ADDR] => 196.201.214.206
+    [SERVER_PORT] => 443
+    [SERVER_ADDR] => 173.237.185.110
+    [SERVER_NAME] => projectsearch.itn3.co.ke
+    [SERVER_SOFTWARE] => Apache
+    [SERVER_SIGNATURE] => 
+    [PATH] => /usr/local/jdk/bin:/usr/kerberos/sbin:/usr/kerberos/bin:/usr/local/sbin:/usr/local/bin:/sbin:/bin:/usr/sbin:/usr/bin:/usr/X11R6/bin:/usr/local/bin:/usr/X11R6/bin:/root/bin:/opt/bin
+    [HTTP_X_RUXIT_FORWARDED_FOR] => 10.195.4.221
+    [HTTP_X_DYNATRACE_REQUESTSTATE] => agentId=0x2aa6f7c69f76fb4c&pathDepth=1
+    [HTTP_COOKIE] => dtCookie=v_4_srv_1_sn_3BFF7DC2EA86B0EAB104E943A5ED1D09_perc_100000_ol_0_mul_1_app-3Aea7c4b59f27d43eb_1_rcs-3Acss_0
+    [HTTP_X_DYNATRACE_ORIGIN_URL] => https://internalsandbox.safaricom.co.ke/mpesa/stkpushresults/v1/submit
+    [HTTP_X_DYNATRACE_APPLICATION] => 1%3B1%3Bea7c4b59f27d43eb
+    [HTTP_USER_AGENT] => BW-HTTPClient/5.4
+    [HTTP_TRACESTATE] => 265f7333-c11c5b27@dt=fw4;1;9f76fb4c;2d74a50;3;1;0;334;7289;2h01;3h9f76fb4c;4h02d74a50;5h01;7h172aa4ba34d451d4,181ea755-a07e0240@dt=fw4;1;542579be;1905;0;0;0;1fe;cb80;2h01;3h542579be;4h1905;5h01;7h787f44bb95484aac
+    [HTTP_TRACEPARENT] => 00-406626dffe4ee8f58a33492e7fdc77e1-172aa4ba34d451d4-00
+    [HTTP_X_DYNATRACE] => FW4;-1055106265;1;-1619592372;47663696;-2147483645;643789619;820;e0bd;2h01;3h9f76fb4c;4h02d74a50;5h01;6h406626dffe4ee8f58a33492e7fdc77e1;7h172aa4ba34d451d4
+    [HTTP_ACCEPT_CHARSET] => iso-8859-1,*,utf-8
+    [HTTP_ACCEPT] => image/gif, image/x-xbitmap, image/jpeg, image/pjpeg, image/png, */*
+    [HTTP_ACCEPT_ENCODING] => gzip
+    [CONTENT_TYPE] => application/json;charset=UTF-8
+    [CONTENT_LENGTH] => 413
+    [HTTP_X_FORWARDED_PROTO] => https
+    [HTTP_X_FORWARDED_PORT] => 443
+    [HTTP_X_FORWARDED_FOR] => 10.195.4.221
+    [HTTP_HOST] => projectsearch.itn3.co.ke
+    [proxy-nokeepalive] => 1
+    [SSL_TLS_SNI] => projectsearch.itn3.co.ke
+    [HTTPS] => on
+    [UNIQUE_ID] => YbuLfff5PmFPrJ9XpsLCagAAAhA
+    [FCGI_ROLE] => RESPONDER
+    [PHP_SELF] => /config/ExpressCheckout/lnmo_result_url.php
+    [REQUEST_TIME_FLOAT] => 1639680893.6031
+    [REQUEST_TIME] => 1639680893
+    [argv] => Array
+        (
+        )
+
+    [argc] => 0
+)
+
+Array
+(
+    [USER] => itncoke1
+    [HOME] => /home/itncoke1
+    [SCRIPT_NAME] => /config/ExpressCheckout/lnmo_result_url.php
+    [REQUEST_URI] => /config/ExpressCheckout/lnmo_result_url.php
+    [QUERY_STRING] => 
+    [REQUEST_METHOD] => POST
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [REMOTE_PORT] => 58262
+    [SCRIPT_FILENAME] => /home/itncoke1/projectsearch.itn3.co.ke/config/ExpressCheckout/lnmo_result_url.php
+    [SERVER_ADMIN] => webmaster@projectsearch.itn3.co.ke
+    [CONTEXT_DOCUMENT_ROOT] => /home/itncoke1/projectsearch.itn3.co.ke
+    [CONTEXT_PREFIX] => 
+    [REQUEST_SCHEME] => https
+    [DOCUMENT_ROOT] => /home/itncoke1/projectsearch.itn3.co.ke
+    [REMOTE_ADDR] => 196.201.214.200
+    [SERVER_PORT] => 443
+    [SERVER_ADDR] => 173.237.185.110
+    [SERVER_NAME] => projectsearch.itn3.co.ke
+    [SERVER_SOFTWARE] => Apache
+    [SERVER_SIGNATURE] => 
+    [PATH] => /usr/local/jdk/bin:/usr/kerberos/sbin:/usr/kerberos/bin:/usr/local/sbin:/usr/local/bin:/sbin:/bin:/usr/sbin:/usr/bin:/usr/X11R6/bin:/usr/local/bin:/usr/X11R6/bin:/root/bin:/opt/bin
+    [HTTP_X_RUXIT_FORWARDED_FOR] => 10.195.4.201
+    [HTTP_X_DYNATRACE_REQUESTSTATE] => agentId=0x50aa6b1c653fd1d2&pathDepth=1
+    [HTTP_COOKIE] => dtCookie=v_4_srv_6_sn_DA048241C9415D9F27D143F7C591C446_perc_100000_ol_0_mul_1_app-3Aea7c4b59f27d43eb_1_rcs-3Acss_0
+    [HTTP_X_DYNATRACE_ORIGIN_URL] => https://internalsandbox.safaricom.co.ke/mpesa/stkpushresults/v1/submit
+    [HTTP_X_DYNATRACE_APPLICATION] => 1%3B1%3Bea7c4b59f27d43eb
+    [HTTP_USER_AGENT] => BW-HTTPClient/5.4
+    [HTTP_TRACESTATE] => 265f7333-c11c5b27@dt=fw4;6;653fd1d2;a28b21;3;1;0;1f6;4e0c;2h01;3h653fd1d2;4ha28b21;5h01;7hc74bf1a025130f0b,181ea755-a07e0240@dt=fw4;6;542579be;190d;0;0;0;222;49dc;2h01;3h542579be;4h190d;5h01;7h22425cb3944dab85
+    [HTTP_TRACEPARENT] => 00-d12b6639d3f5469d0c12994ceae20a43-c74bf1a025130f0b-00
+    [HTTP_X_DYNATRACE] => FW4;-1055106265;6;1698681298;10652449;-2147483645;643789619;502;64f8;2h01;3h653fd1d2;4ha28b21;5h01;6hd12b6639d3f5469d0c12994ceae20a43;7hc74bf1a025130f0b
+    [HTTP_ACCEPT_CHARSET] => iso-8859-1,*,utf-8
+    [HTTP_ACCEPT] => image/gif, image/x-xbitmap, image/jpeg, image/pjpeg, image/png, */*
+    [HTTP_ACCEPT_ENCODING] => gzip
+    [CONTENT_TYPE] => application/json;charset=UTF-8
+    [CONTENT_LENGTH] => 413
+    [HTTP_X_FORWARDED_PROTO] => https
+    [HTTP_X_FORWARDED_PORT] => 443
+    [HTTP_X_FORWARDED_FOR] => 10.195.4.201
+    [HTTP_HOST] => projectsearch.itn3.co.ke
+    [proxy-nokeepalive] => 1
+    [SSL_TLS_SNI] => projectsearch.itn3.co.ke
+    [HTTPS] => on
+    [UNIQUE_ID] => YbuN4Nm77iNgUpmUu7Am4AAAARA
+    [FCGI_ROLE] => RESPONDER
+    [PHP_SELF] => /config/ExpressCheckout/lnmo_result_url.php
+    [REQUEST_TIME_FLOAT] => 1639681504.6644
+    [REQUEST_TIME] => 1639681504
+    [argv] => Array
+        (
+        )
+
+    [argc] => 0
+)
+
+Array
+(
+    [USER] => itncoke1
+    [HOME] => /home/itncoke1
+    [SCRIPT_NAME] => /config/ExpressCheckout/lnmo_result_url.php
+    [REQUEST_URI] => /config/ExpressCheckout/lnmo_result_url.php
+    [QUERY_STRING] => 
+    [REQUEST_METHOD] => POST
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [REMOTE_PORT] => 44960
+    [SCRIPT_FILENAME] => /home/itncoke1/projectsearch.itn3.co.ke/config/ExpressCheckout/lnmo_result_url.php
+    [SERVER_ADMIN] => webmaster@projectsearch.itn3.co.ke
+    [CONTEXT_DOCUMENT_ROOT] => /home/itncoke1/projectsearch.itn3.co.ke
+    [CONTEXT_PREFIX] => 
+    [REQUEST_SCHEME] => https
+    [DOCUMENT_ROOT] => /home/itncoke1/projectsearch.itn3.co.ke
+    [REMOTE_ADDR] => 196.201.212.69
+    [SERVER_PORT] => 443
+    [SERVER_ADDR] => 173.237.185.110
+    [SERVER_NAME] => projectsearch.itn3.co.ke
+    [SERVER_SOFTWARE] => Apache
+    [SERVER_SIGNATURE] => 
+    [PATH] => /usr/local/jdk/bin:/usr/kerberos/sbin:/usr/kerberos/bin:/usr/local/sbin:/usr/local/bin:/sbin:/bin:/usr/sbin:/usr/bin:/usr/X11R6/bin:/usr/local/bin:/usr/X11R6/bin:/root/bin:/opt/bin
+    [HTTP_X_RUXIT_FORWARDED_FOR] => 10.195.4.94
+    [HTTP_X_DYNATRACE_REQUESTSTATE] => agentId=0x2aa6f7c69f76fb4c&pathDepth=1
+    [HTTP_COOKIE] => dtCookie=v_4_srv_7_sn_6DA2D1359D6DFAA4CB56058A33F500D2_perc_100000_ol_0_mul_1_app-3Aea7c4b59f27d43eb_1_rcs-3Acss_0
+    [HTTP_X_DYNATRACE_ORIGIN_URL] => https://internalsandbox.safaricom.co.ke/mpesa/stkpushresults/v1/submit
+    [HTTP_X_DYNATRACE_APPLICATION] => 1%3B1%3Bea7c4b59f27d43eb
+    [HTTP_USER_AGENT] => BW-HTTPClient/5.4
+    [HTTP_TRACESTATE] => 265f7333-c11c5b27@dt=fw4;7;9f76fb4c;2ddbdc2;3;0;0;3c7;5804;2h01;3h9f76fb4c;4h02ddbdc2;5h01;7hbb4b1916f960ca6b,181ea755-a07e0240@dt=fw4;3;542579be;1921;0;0;0;259;559f;2h01;3h542579be;4h1921;5h01;7hef5a08a532d9e684
+    [HTTP_TRACEPARENT] => 00-c7c6c7a3308ec97db7080c90260550e1-bb4b1916f960ca6b-01
+    [HTTP_X_DYNATRACE] => FW4;-1055106265;7;-1619592372;48086466;3;643789619;967;b651;2h01;3h9f76fb4c;4h02ddbdc2;5h01;6hc7c6c7a3308ec97db7080c90260550e1;7hbb4b1916f960ca6b
+    [HTTP_ACCEPT_CHARSET] => iso-8859-1,*,utf-8
+    [HTTP_ACCEPT] => image/gif, image/x-xbitmap, image/jpeg, image/pjpeg, image/png, */*
+    [HTTP_ACCEPT_ENCODING] => gzip
+    [CONTENT_TYPE] => application/json;charset=UTF-8
+    [CONTENT_LENGTH] => 414
+    [HTTP_X_FORWARDED_PROTO] => https
+    [HTTP_X_FORWARDED_PORT] => 443
+    [HTTP_X_FORWARDED_FOR] => 10.195.4.94
+    [HTTP_HOST] => projectsearch.itn3.co.ke
+    [proxy-nokeepalive] => 1
+    [SSL_TLS_SNI] => projectsearch.itn3.co.ke
+    [HTTPS] => on
+    [UNIQUE_ID] => Ybuphvf5PmFPrJ9XpsLRZQAAAgc
+    [FCGI_ROLE] => RESPONDER
+    [PHP_SELF] => /config/ExpressCheckout/lnmo_result_url.php
+    [REQUEST_TIME_FLOAT] => 1639688582.2936
+    [REQUEST_TIME] => 1639688582
+    [argv] => Array
+        (
+        )
+
+    [argc] => 0
+)
+
+Array
+(
+    [USER] => itncoke1
+    [HOME] => /home/itncoke1
+    [SCRIPT_NAME] => /config/ExpressCheckout/lnmo_result_url.php
+    [REQUEST_URI] => /config/ExpressCheckout/lnmo_result_url.php
+    [QUERY_STRING] => 
+    [REQUEST_METHOD] => POST
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [REMOTE_PORT] => 32908
+    [SCRIPT_FILENAME] => /home/itncoke1/projectsearch.itn3.co.ke/config/ExpressCheckout/lnmo_result_url.php
+    [SERVER_ADMIN] => webmaster@projectsearch.itn3.co.ke
+    [CONTEXT_DOCUMENT_ROOT] => /home/itncoke1/projectsearch.itn3.co.ke
+    [CONTEXT_PREFIX] => 
+    [REQUEST_SCHEME] => https
+    [DOCUMENT_ROOT] => /home/itncoke1/projectsearch.itn3.co.ke
+    [REMOTE_ADDR] => 196.201.214.206
+    [SERVER_PORT] => 443
+    [SERVER_ADDR] => 173.237.185.110
+    [SERVER_NAME] => projectsearch.itn3.co.ke
+    [SERVER_SOFTWARE] => Apache
+    [SERVER_SIGNATURE] => 
+    [PATH] => /usr/local/jdk/bin:/usr/kerberos/sbin:/usr/kerberos/bin:/usr/local/sbin:/usr/local/bin:/sbin:/bin:/usr/sbin:/usr/bin:/usr/X11R6/bin:/usr/local/bin:/usr/X11R6/bin:/root/bin:/opt/bin
+    [HTTP_X_RUXIT_FORWARDED_FOR] => 10.195.4.58
+    [HTTP_X_DYNATRACE_REQUESTSTATE] => agentId=0x50bfc530ba2ce7f8&pathDepth=1
+    [HTTP_COOKIE] => dtCookie=v_4_srv_3_sn_4EE65E0BB1B3D480BF0286E8B537B788_perc_100000_ol_0_mul_1_app-3Aea7c4b59f27d43eb_1_rcs-3Acss_0
+    [HTTP_X_DYNATRACE_ORIGIN_URL] => https://internalsandbox.safaricom.co.ke/mpesa/stkpushresults/v1/submit
+    [HTTP_X_DYNATRACE_APPLICATION] => 1%3B1%3Bea7c4b59f27d43eb
+    [HTTP_USER_AGENT] => BW-HTTPClient/5.4
+    [HTTP_TRACESTATE] => 265f7333-c11c5b27@dt=fw4;3;ba2ce7f8;3ed901e;3;1;0;125;f042;2h01;3hba2ce7f8;4h03ed901e;5h01;7hc17105148a824e83,181ea755-a07e0240@dt=fw4;3;542579be;1d3b;0;0;0;29d;b62c;2h01;3h542579be;4h1d3b;5h01;7hb6f45be1f8515c37
+    [HTTP_TRACEPARENT] => 00-3a4954c87da21ef02939e5fddb52e845-c17105148a824e83-00
+    [HTTP_X_DYNATRACE] => FW4;-1055106265;3;-1171462152;65900574;-2147483645;643789619;293;a83f;2h01;3hba2ce7f8;4h03ed901e;5h01;6h3a4954c87da21ef02939e5fddb52e845;7hc17105148a824e83
+    [HTTP_ACCEPT_CHARSET] => iso-8859-1,*,utf-8
+    [HTTP_ACCEPT] => image/gif, image/x-xbitmap, image/jpeg, image/pjpeg, image/png, */*
+    [HTTP_ACCEPT_ENCODING] => gzip
+    [CONTENT_TYPE] => application/json;charset=UTF-8
+    [CONTENT_LENGTH] => 172
+    [HTTP_X_FORWARDED_PROTO] => https
+    [HTTP_X_FORWARDED_PORT] => 443
+    [HTTP_X_FORWARDED_FOR] => 10.195.4.58
+    [HTTP_HOST] => projectsearch.itn3.co.ke
+    [proxy-nokeepalive] => 1
+    [SSL_TLS_SNI] => projectsearch.itn3.co.ke
+    [HTTPS] => on
+    [UNIQUE_ID] => Yb99CWLxY2DjYuPyhbZYFwAAAss
+    [FCGI_ROLE] => RESPONDER
+    [PHP_SELF] => /config/ExpressCheckout/lnmo_result_url.php
+    [REQUEST_TIME_FLOAT] => 1639939337.8991
+    [REQUEST_TIME] => 1639939337
+    [argv] => Array
+        (
+        )
+
+    [argc] => 0
+)
+
+Array
+(
+    [USER] => itncoke1
+    [HOME] => /home/itncoke1
+    [SCRIPT_NAME] => /config/ExpressCheckout/lnmo_result_url.php
+    [REQUEST_URI] => /config/ExpressCheckout/lnmo_result_url.php
+    [QUERY_STRING] => 
+    [REQUEST_METHOD] => POST
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [REMOTE_PORT] => 54966
+    [SCRIPT_FILENAME] => /home/itncoke1/projectsearch.itn3.co.ke/config/ExpressCheckout/lnmo_result_url.php
+    [SERVER_ADMIN] => webmaster@projectsearch.itn3.co.ke
+    [CONTEXT_DOCUMENT_ROOT] => /home/itncoke1/projectsearch.itn3.co.ke
+    [CONTEXT_PREFIX] => 
+    [REQUEST_SCHEME] => https
+    [DOCUMENT_ROOT] => /home/itncoke1/projectsearch.itn3.co.ke
+    [REMOTE_ADDR] => 196.201.212.136
+    [SERVER_PORT] => 443
+    [SERVER_ADDR] => 173.237.185.110
+    [SERVER_NAME] => projectsearch.itn3.co.ke
+    [SERVER_SOFTWARE] => Apache
+    [SERVER_SIGNATURE] => 
+    [PATH] => /usr/local/jdk/bin:/usr/kerberos/sbin:/usr/kerberos/bin:/usr/local/sbin:/usr/local/bin:/sbin:/bin:/usr/sbin:/usr/bin:/usr/X11R6/bin:/usr/local/bin:/usr/X11R6/bin:/root/bin:/opt/bin
+    [HTTP_X_RUXIT_FORWARDED_FOR] => 10.195.5.83
+    [HTTP_X_DYNATRACE_REQUESTSTATE] => agentId=0x50aa6b1c653fd1d2&pathDepth=1
+    [HTTP_COOKIE] => dtCookie=v_4_srv_1_sn_FB2B59A07E89CE40199C63AE439CE7AE_perc_100000_ol_0_mul_1_app-3Aea7c4b59f27d43eb_1_rcs-3Acss_1
+    [HTTP_X_DYNATRACE_ORIGIN_URL] => https://internalsandbox.safaricom.co.ke/mpesa/stkpushresults/v1/submit
+    [HTTP_X_DYNATRACE_APPLICATION] => 1%3B1%3Bea7c4b59f27d43eb
+    [HTTP_USER_AGENT] => BW-HTTPClient/5.4
+    [HTTP_TRACESTATE] => 265f7333-c11c5b27@dt=fw4;1;653fd1d2;1b73670;3;1;0;1f1;deda;2h01;3h653fd1d2;4h01b73670;5h01;7ha31f3bf1b816e1dc,181ea755-a07e0240@dt=fw4;1;542579be;1d3d;0;0;0;1e0;a947;2h01;3h542579be;4h1d3d;5h01;7h7d636266c2043e36
+    [HTTP_TRACEPARENT] => 00-5f8ac209bb629fd49c41259066c1887d-a31f3bf1b816e1dc-00
+    [HTTP_X_DYNATRACE] => FW4;-1055106265;1;1698681298;28784240;-2147483645;643789619;497;add9;2h01;3h653fd1d2;4h01b73670;5h01;6h5f8ac209bb629fd49c41259066c1887d;7ha31f3bf1b816e1dc
+    [HTTP_ACCEPT_CHARSET] => iso-8859-1,*,utf-8
+    [HTTP_ACCEPT] => image/gif, image/x-xbitmap, image/jpeg, image/pjpeg, image/png, */*
+    [HTTP_ACCEPT_ENCODING] => gzip
+    [CONTENT_TYPE] => application/json;charset=UTF-8
+    [CONTENT_LENGTH] => 414
+    [HTTP_X_FORWARDED_PROTO] => https
+    [HTTP_X_FORWARDED_PORT] => 443
+    [HTTP_X_FORWARDED_FOR] => 10.195.5.83
+    [HTTP_HOST] => projectsearch.itn3.co.ke
+    [proxy-nokeepalive] => 1
+    [SSL_TLS_SNI] => projectsearch.itn3.co.ke
+    [HTTPS] => on
+    [UNIQUE_ID] => Yb99ZfaFezMdoY0drsYD5AAAAAU
+    [FCGI_ROLE] => RESPONDER
+    [PHP_SELF] => /config/ExpressCheckout/lnmo_result_url.php
+    [REQUEST_TIME_FLOAT] => 1639939429.7387
+    [REQUEST_TIME] => 1639939429
+    [argv] => Array
+        (
+        )
+
+    [argc] => 0
+)
+
+Array
+(
+    [USER] => itncoke1
+    [HOME] => /home/itncoke1
+    [SCRIPT_NAME] => /config/ExpressCheckout/lnmo_result_url.php
+    [REQUEST_URI] => /config/ExpressCheckout/lnmo_result_url.php
+    [QUERY_STRING] => 
+    [REQUEST_METHOD] => POST
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [REMOTE_PORT] => 34374
+    [SCRIPT_FILENAME] => /home/itncoke1/projectsearch.itn3.co.ke/config/ExpressCheckout/lnmo_result_url.php
+    [SERVER_ADMIN] => webmaster@projectsearch.itn3.co.ke
+    [CONTEXT_DOCUMENT_ROOT] => /home/itncoke1/projectsearch.itn3.co.ke
+    [CONTEXT_PREFIX] => 
+    [REQUEST_SCHEME] => https
+    [DOCUMENT_ROOT] => /home/itncoke1/projectsearch.itn3.co.ke
+    [REMOTE_ADDR] => 196.201.212.69
+    [SERVER_PORT] => 443
+    [SERVER_ADDR] => 173.237.185.110
+    [SERVER_NAME] => projectsearch.itn3.co.ke
+    [SERVER_SOFTWARE] => Apache
+    [SERVER_SIGNATURE] => 
+    [PATH] => /usr/local/jdk/bin:/usr/kerberos/sbin:/usr/kerberos/bin:/usr/local/sbin:/usr/local/bin:/sbin:/bin:/usr/sbin:/usr/bin:/usr/X11R6/bin:/usr/local/bin:/usr/X11R6/bin:/root/bin:/opt/bin
+    [HTTP_X_RUXIT_FORWARDED_FOR] => 10.195.5.192
+    [HTTP_X_DYNATRACE_REQUESTSTATE] => agentId=0x50bfc530ba2ce7f8&pathDepth=1
+    [HTTP_COOKIE] => dtCookie=v_4_srv_6_sn_937D0454A1D727AA7328C792D16FC881_perc_100000_ol_0_mul_1_app-3Aea7c4b59f27d43eb_1_rcs-3Acss_0
+    [HTTP_X_DYNATRACE_ORIGIN_URL] => https://internalsandbox.safaricom.co.ke/mpesa/stkpushresults/v1/submit
+    [HTTP_X_DYNATRACE_APPLICATION] => 1%3B1%3Bea7c4b59f27d43eb
+    [HTTP_USER_AGENT] => BW-HTTPClient/5.4
+    [HTTP_TRACESTATE] => 265f7333-c11c5b27@dt=fw4;6;ba2ce7f8;413cf7f;3;1;0;25d;545f;2h01;3hba2ce7f8;4h0413cf7f;5h01;7h446026428a7f1b15,181ea755-a07e0240@dt=fw4;6;542579be;1df3;0;0;0;1a5;acb5;2h01;3h542579be;4h1df3;5h01;7hcf0f4b2f6114d1bc
+    [HTTP_TRACEPARENT] => 00-ce6611d1118bcd4256c0206e325e493e-446026428a7f1b15-00
+    [HTTP_X_DYNATRACE] => FW4;-1055106265;6;-1171462152;68407167;-2147483645;643789619;605;e6aa;2h01;3hba2ce7f8;4h0413cf7f;5h01;6hce6611d1118bcd4256c0206e325e493e;7h446026428a7f1b15
+    [HTTP_ACCEPT_CHARSET] => iso-8859-1,*,utf-8
+    [HTTP_ACCEPT] => image/gif, image/x-xbitmap, image/jpeg, image/pjpeg, image/png, */*
+    [HTTP_ACCEPT_ENCODING] => gzip
+    [CONTENT_TYPE] => application/json;charset=UTF-8
+    [CONTENT_LENGTH] => 413
+    [HTTP_X_FORWARDED_PROTO] => https
+    [HTTP_X_FORWARDED_PORT] => 443
+    [HTTP_X_FORWARDED_FOR] => 10.195.5.192
+    [HTTP_HOST] => projectsearch.itn3.co.ke
+    [proxy-nokeepalive] => 1
+    [SSL_TLS_SNI] => projectsearch.itn3.co.ke
+    [HTTPS] => on
+    [UNIQUE_ID] => YcBCT7sfdR5-T5flU7VhpQAAAcA
+    [FCGI_ROLE] => RESPONDER
+    [PHP_SELF] => /config/ExpressCheckout/lnmo_result_url.php
+    [REQUEST_TIME_FLOAT] => 1639989839.5479
+    [REQUEST_TIME] => 1639989839
+    [argv] => Array
+        (
+        )
+
+    [argc] => 0
+)
+
+Array
+(
+    [USER] => itncoke1
+    [HOME] => /home/itncoke1
+    [SCRIPT_NAME] => /config/ExpressCheckout/lnmo_result_url.php
+    [REQUEST_URI] => /config/ExpressCheckout/lnmo_result_url.php
+    [QUERY_STRING] => 
+    [REQUEST_METHOD] => POST
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [REMOTE_PORT] => 47030
+    [SCRIPT_FILENAME] => /home/itncoke1/projectsearch.itn3.co.ke/config/ExpressCheckout/lnmo_result_url.php
+    [SERVER_ADMIN] => webmaster@projectsearch.itn3.co.ke
+    [CONTEXT_DOCUMENT_ROOT] => /home/itncoke1/projectsearch.itn3.co.ke
+    [CONTEXT_PREFIX] => 
+    [REQUEST_SCHEME] => https
+    [DOCUMENT_ROOT] => /home/itncoke1/projectsearch.itn3.co.ke
+    [REMOTE_ADDR] => 196.201.213.44
+    [SERVER_PORT] => 443
+    [SERVER_ADDR] => 173.237.185.110
+    [SERVER_NAME] => projectsearch.itn3.co.ke
+    [SERVER_SOFTWARE] => Apache
+    [SERVER_SIGNATURE] => 
+    [PATH] => /usr/local/jdk/bin:/usr/kerberos/sbin:/usr/kerberos/bin:/usr/local/sbin:/usr/local/bin:/sbin:/bin:/usr/sbin:/usr/bin:/usr/X11R6/bin:/usr/local/bin:/usr/X11R6/bin:/root/bin:/opt/bin
+    [HTTP_X_RUXIT_FORWARDED_FOR] => 10.195.5.178
+    [HTTP_X_DYNATRACE_REQUESTSTATE] => agentId=0x1e40b4465adf5587&pathDepth=1
+    [HTTP_COOKIE] => dtCookie=v_4_srv_4_sn_FB006580A075F3C7132417FEC540F355_perc_100000_ol_0_mul_1_app-3Aea7c4b59f27d43eb_1_rcs-3Acss_1
+    [HTTP_X_DYNATRACE_ORIGIN_URL] => https://internalsandbox.safaricom.co.ke/mpesa/stkpushresults/v1/submit
+    [HTTP_X_DYNATRACE_APPLICATION] => 1%3B1%3Bea7c4b59f27d43eb
+    [HTTP_USER_AGENT] => BW-HTTPClient/5.4
+    [HTTP_TRACESTATE] => 265f7333-c11c5b27@dt=fw4;4;5adf5587;1e2f785;3;1;0;128;d6a7;2h01;3h5adf5587;4h01e2f785;5h01;7h892b4701d22e61ca,181ea755-a07e0240@dt=fw4;4;542579be;1df9;0;0;0;1a3;909b;2h01;3h542579be;4h1df9;5h01;7h24a3bf30a82a5090
+    [HTTP_TRACEPARENT] => 00-bb60fd5dbfd93097aae674a10ce68e54-892b4701d22e61ca-00
+    [HTTP_X_DYNATRACE] => FW4;-1055106265;4;1524585863;31651717;-2147483645;643789619;296;af74;2h01;3h5adf5587;4h01e2f785;5h01;6hbb60fd5dbfd93097aae674a10ce68e54;7h892b4701d22e61ca
+    [HTTP_ACCEPT_CHARSET] => iso-8859-1,*,utf-8
+    [HTTP_ACCEPT] => image/gif, image/x-xbitmap, image/jpeg, image/pjpeg, image/png, */*
+    [HTTP_ACCEPT_ENCODING] => gzip
+    [CONTENT_TYPE] => application/json;charset=UTF-8
+    [CONTENT_LENGTH] => 413
+    [HTTP_X_FORWARDED_PROTO] => https
+    [HTTP_X_FORWARDED_PORT] => 443
+    [HTTP_X_FORWARDED_FOR] => 10.195.5.178
+    [HTTP_HOST] => projectsearch.itn3.co.ke
+    [proxy-nokeepalive] => 1
+    [SSL_TLS_SNI] => projectsearch.itn3.co.ke
+    [HTTPS] => on
+    [UNIQUE_ID] => YcBEZ510ySpIOdRNdIirNAAAAos
+    [FCGI_ROLE] => RESPONDER
+    [PHP_SELF] => /config/ExpressCheckout/lnmo_result_url.php
+    [REQUEST_TIME_FLOAT] => 1639990375.8477
+    [REQUEST_TIME] => 1639990375
+    [argv] => Array
+        (
+        )
+
+    [argc] => 0
+)
+
+Array
+(
+    [USER] => itncoke1
+    [HOME] => /home/itncoke1
+    [SCRIPT_NAME] => /config/ExpressCheckout/lnmo_result_url.php
+    [REQUEST_URI] => /config/ExpressCheckout/lnmo_result_url.php
+    [QUERY_STRING] => 
+    [REQUEST_METHOD] => POST
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [REMOTE_PORT] => 49274
+    [SCRIPT_FILENAME] => /home/itncoke1/projectsearch.itn3.co.ke/config/ExpressCheckout/lnmo_result_url.php
+    [SERVER_ADMIN] => webmaster@projectsearch.itn3.co.ke
+    [CONTEXT_DOCUMENT_ROOT] => /home/itncoke1/projectsearch.itn3.co.ke
+    [CONTEXT_PREFIX] => 
+    [REQUEST_SCHEME] => https
+    [DOCUMENT_ROOT] => /home/itncoke1/projectsearch.itn3.co.ke
+    [REMOTE_ADDR] => 196.201.212.127
+    [SERVER_PORT] => 443
+    [SERVER_ADDR] => 173.237.185.110
+    [SERVER_NAME] => projectsearch.itn3.co.ke
+    [SERVER_SOFTWARE] => Apache
+    [SERVER_SIGNATURE] => 
+    [PATH] => /usr/local/jdk/bin:/usr/kerberos/sbin:/usr/kerberos/bin:/usr/local/sbin:/usr/local/bin:/sbin:/bin:/usr/sbin:/usr/bin:/usr/X11R6/bin:/usr/local/bin:/usr/X11R6/bin:/root/bin:/opt/bin
+    [HTTP_X_RUXIT_FORWARDED_FOR] => 10.195.4.231
+    [HTTP_X_DYNATRACE_REQUESTSTATE] => agentId=0x31e9ac9713701e0c&pathDepth=1
+    [HTTP_COOKIE] => dtCookie=v_4_srv_4_sn_C59FF50187A04BA5124A0318BF31602C_perc_100000_ol_0_mul_1_app-3Aea7c4b59f27d43eb_1_rcs-3Acss_0
+    [HTTP_X_DYNATRACE_ORIGIN_URL] => https://internalsandbox.safaricom.co.ke/mpesa/stkpushresults/v1/submit
+    [HTTP_X_DYNATRACE_APPLICATION] => 1%3B1%3Bea7c4b59f27d43eb
+    [HTTP_USER_AGENT] => BW-HTTPClient/5.4
+    [HTTP_TRACESTATE] => 265f7333-c11c5b27@dt=fw4;4;13701e0c;2a0b83b;3;1;0;347;eb3f;2h01;3h13701e0c;4h02a0b83b;5h01;7ha03e9e05cf426fee,181ea755-a07e0240@dt=fw4;4;542579be;2307;0;0;0;547;a540;2h01;3h542579be;4h2307;5h01;7h69812db4680b494c
+    [HTTP_TRACEPARENT] => 00-3468d802c763397e50437c2e77a5e745-a03e9e05cf426fee-00
+    [HTTP_X_DYNATRACE] => FW4;-1055106265;4;326114828;44087355;-2147483645;643789619;839;0b81;2h01;3h13701e0c;4h02a0b83b;5h01;6h3468d802c763397e50437c2e77a5e745;7ha03e9e05cf426fee
+    [HTTP_ACCEPT_CHARSET] => iso-8859-1,*,utf-8
+    [HTTP_ACCEPT] => image/gif, image/x-xbitmap, image/jpeg, image/pjpeg, image/png, */*
+    [HTTP_ACCEPT_ENCODING] => gzip
+    [CONTENT_TYPE] => application/json;charset=UTF-8
+    [CONTENT_LENGTH] => 414
+    [HTTP_X_FORWARDED_PROTO] => https
+    [HTTP_X_FORWARDED_PORT] => 443
+    [HTTP_X_FORWARDED_FOR] => 10.195.4.231
+    [HTTP_HOST] => projectsearch.itn3.co.ke
+    [proxy-nokeepalive] => 1
+    [SSL_TLS_SNI] => projectsearch.itn3.co.ke
+    [HTTPS] => on
+    [UNIQUE_ID] => YcLTRp5aropCnrw-zRToVQAAAQo
+    [FCGI_ROLE] => RESPONDER
+    [PHP_SELF] => /config/ExpressCheckout/lnmo_result_url.php
+    [REQUEST_TIME_FLOAT] => 1640158022.5931
+    [REQUEST_TIME] => 1640158022
+    [argv] => Array
+        (
+        )
+
+    [argc] => 0
+)
+
+Array
+(
+    [USER] => itncoke1
+    [HOME] => /home/itncoke1
+    [SCRIPT_NAME] => /config/ExpressCheckout/lnmo_result_url.php
+    [REQUEST_URI] => /config/ExpressCheckout/lnmo_result_url.php
+    [QUERY_STRING] => 
+    [REQUEST_METHOD] => POST
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [REMOTE_PORT] => 48818
+    [SCRIPT_FILENAME] => /home/itncoke1/projectsearch.itn3.co.ke/config/ExpressCheckout/lnmo_result_url.php
+    [SERVER_ADMIN] => webmaster@projectsearch.itn3.co.ke
+    [CONTEXT_DOCUMENT_ROOT] => /home/itncoke1/projectsearch.itn3.co.ke
+    [CONTEXT_PREFIX] => 
+    [REQUEST_SCHEME] => https
+    [DOCUMENT_ROOT] => /home/itncoke1/projectsearch.itn3.co.ke
+    [REMOTE_ADDR] => 196.201.214.208
+    [SERVER_PORT] => 443
+    [SERVER_ADDR] => 173.237.185.110
+    [SERVER_NAME] => projectsearch.itn3.co.ke
+    [SERVER_SOFTWARE] => Apache
+    [SERVER_SIGNATURE] => 
+    [PATH] => /usr/local/jdk/bin:/usr/kerberos/sbin:/usr/kerberos/bin:/usr/local/sbin:/usr/local/bin:/sbin:/bin:/usr/sbin:/usr/bin:/usr/X11R6/bin:/usr/local/bin:/usr/X11R6/bin:/root/bin:/opt/bin
+    [HTTP_X_RUXIT_FORWARDED_FOR] => 10.195.4.160
+    [HTTP_X_DYNATRACE_REQUESTSTATE] => agentId=0xc7b03b803321c0ab&pathDepth=1
+    [HTTP_COOKIE] => dtCookie=v_4_srv_4_sn_BAB765075C1252EDCD73C15A1904A10A_perc_100000_ol_0_mul_1_app-3Aea7c4b59f27d43eb_1_rcs-3Acss_0
+    [HTTP_X_DYNATRACE_ORIGIN_URL] => https://internalsandbox.safaricom.co.ke/mpesa/stkpushresults/v1/submit
+    [HTTP_X_DYNATRACE_APPLICATION] => 1%3B1%3Bea7c4b59f27d43eb
+    [HTTP_USER_AGENT] => BW-HTTPClient/5.4
+    [HTTP_TRACESTATE] => 265f7333-c11c5b27@dt=fw4;4;3321c0ab;357e186;3;1;0;107;b7b0;2h01;3h3321c0ab;4h0357e186;5h01;7h2ce7c52efc11f7c1,181ea755-a07e0240@dt=fw4;4;542579be;25a9;0;0;0;1fe;96f0;2h01;3h542579be;4h25a9;5h01;7h33d38c146fc07a93
+    [HTTP_TRACEPARENT] => 00-8dbe5a114481b858c400fb6bc0672a8f-2ce7c52efc11f7c1-00
+    [HTTP_X_DYNATRACE] => FW4;-1055106265;4;857850027;56091014;-2147483645;643789619;263;85d7;2h01;3h3321c0ab;4h0357e186;5h01;6h8dbe5a114481b858c400fb6bc0672a8f;7h2ce7c52efc11f7c1
+    [HTTP_ACCEPT_CHARSET] => iso-8859-1,*,utf-8
+    [HTTP_ACCEPT] => image/gif, image/x-xbitmap, image/jpeg, image/pjpeg, image/png, */*
+    [HTTP_ACCEPT_ENCODING] => gzip
+    [CONTENT_TYPE] => application/json;charset=UTF-8
+    [CONTENT_LENGTH] => 413
+    [HTTP_X_FORWARDED_PROTO] => https
+    [HTTP_X_FORWARDED_PORT] => 443
+    [HTTP_X_FORWARDED_FOR] => 10.195.4.160
+    [HTTP_HOST] => projectsearch.itn3.co.ke
+    [proxy-nokeepalive] => 1
+    [SSL_TLS_SNI] => projectsearch.itn3.co.ke
+    [HTTPS] => on
+    [UNIQUE_ID] => YcQYfegOEGqz4isVuNzYMQAAAhc
+    [FCGI_ROLE] => RESPONDER
+    [PHP_SELF] => /config/ExpressCheckout/lnmo_result_url.php
+    [REQUEST_TIME_FLOAT] => 1640241277.6811
+    [REQUEST_TIME] => 1640241277
+    [argv] => Array
+        (
+        )
+
+    [argc] => 0
+)
+
+Array
+(
+    [USER] => itncoke1
+    [HOME] => /home/itncoke1
+    [SCRIPT_NAME] => /config/ExpressCheckout/lnmo_result_url.php
+    [REQUEST_URI] => /config/ExpressCheckout/lnmo_result_url.php
+    [QUERY_STRING] => 
+    [REQUEST_METHOD] => POST
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [REMOTE_PORT] => 60824
+    [SCRIPT_FILENAME] => /home/itncoke1/projectsearch.itn3.co.ke/config/ExpressCheckout/lnmo_result_url.php
+    [SERVER_ADMIN] => webmaster@projectsearch.itn3.co.ke
+    [CONTEXT_DOCUMENT_ROOT] => /home/itncoke1/projectsearch.itn3.co.ke
+    [CONTEXT_PREFIX] => 
+    [REQUEST_SCHEME] => https
+    [DOCUMENT_ROOT] => /home/itncoke1/projectsearch.itn3.co.ke
+    [REMOTE_ADDR] => 196.201.212.136
+    [SERVER_PORT] => 443
+    [SERVER_ADDR] => 173.237.185.110
+    [SERVER_NAME] => projectsearch.itn3.co.ke
+    [SERVER_SOFTWARE] => Apache
+    [SERVER_SIGNATURE] => 
+    [PATH] => /usr/local/jdk/bin:/usr/kerberos/sbin:/usr/kerberos/bin:/usr/local/sbin:/usr/local/bin:/sbin:/bin:/usr/sbin:/usr/bin:/usr/X11R6/bin:/usr/local/bin:/usr/X11R6/bin:/root/bin:/opt/bin
+    [HTTP_X_RUXIT_FORWARDED_FOR] => 10.195.5.90
+    [HTTP_X_DYNATRACE_REQUESTSTATE] => agentId=0x8a3cf670579c51e6&pathDepth=1
+    [HTTP_COOKIE] => dtCookie=v_4_srv_7_sn_5EACC43CFAF7B7BD025DE9D51A7E9222_perc_100000_ol_0_mul_1_app-3Aea7c4b59f27d43eb_1_rcs-3Acss_0
+    [HTTP_X_DYNATRACE_ORIGIN_URL] => https://internalsandbox.safaricom.co.ke/mpesa/stkpushresults/v1/submit
+    [HTTP_X_DYNATRACE_APPLICATION] => 1%3B1%3Bea7c4b59f27d43eb
+    [HTTP_USER_AGENT] => BW-HTTPClient/5.4
+    [HTTP_TRACESTATE] => 265f7333-c11c5b27@dt=fw4;7;579c51e6;29cee8e;3;1;0;222;913f;2h01;3h579c51e6;4h029cee8e;5h01;7hf2b68b101cd4a967,181ea755-a07e0240@dt=fw4;2;542579be;3b29;0;0;0;18b;f7a1;2h01;3h542579be;4h3b29;5h01;7hd4ca31b85eb22d89
+    [HTTP_TRACEPARENT] => 00-7ae07d4b02012cb71391b4d2225f2898-f2b68b101cd4a967-00
+    [HTTP_X_DYNATRACE] => FW4;-1055106265;7;1469862374;43839118;-2147483645;643789619;546;b00c;2h01;3h579c51e6;4h029cee8e;5h01;6h7ae07d4b02012cb71391b4d2225f2898;7hf2b68b101cd4a967
+    [HTTP_ACCEPT_CHARSET] => iso-8859-1,*,utf-8
+    [HTTP_ACCEPT] => image/gif, image/x-xbitmap, image/jpeg, image/pjpeg, image/png, */*
+    [HTTP_ACCEPT_ENCODING] => gzip
+    [CONTENT_TYPE] => application/json;charset=UTF-8
+    [CONTENT_LENGTH] => 414
+    [HTTP_X_FORWARDED_PROTO] => https
+    [HTTP_X_FORWARDED_PORT] => 443
+    [HTTP_X_FORWARDED_FOR] => 10.195.5.90
+    [HTTP_HOST] => projectsearch.itn3.co.ke
+    [proxy-nokeepalive] => 1
+    [SSL_TLS_SNI] => projectsearch.itn3.co.ke
+    [HTTPS] => on
+    [UNIQUE_ID] => YdQ-YObaZIGGW1LoPR8StAAAARU
+    [FCGI_ROLE] => RESPONDER
+    [PHP_SELF] => /config/ExpressCheckout/lnmo_result_url.php
+    [REQUEST_TIME_FLOAT] => 1641299552.7966
+    [REQUEST_TIME] => 1641299552
+    [argv] => Array
+        (
+        )
+
+    [argc] => 0
+)
+
